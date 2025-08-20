@@ -1403,3 +1403,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [20Aug2025 22:37:07.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> si
 [20Aug2025 22:37:20.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> manda
 [20Aug2025 22:40:19.638] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[20Aug2025 22:43:55.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Hunter
+[20Aug2025 22:43:57.243] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Aug2025 22:43:57.244] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[20Aug2025 22:45:09.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd timed out
+[20Aug2025 22:45:09.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player joaocover
+[20Aug2025 22:45:09.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[20Aug2025 22:45:27.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[20Aug2025 22:45:27.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[20Aug2025 22:45:27.982] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[20Aug2025 22:45:28.044] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

@@ -9401,3 +9401,38 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [20Aug2025 22:39:28.989] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [20Aug2025 22:39:29.492] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [20Aug2025 22:40:19.638] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[20Aug2025 22:43:00.778] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 22:43:12.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2025 22:43:13.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Aug2025 22:43:40.378] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 22:43:40.879] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 22:43:41.373] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 22:43:41.777] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 22:43:42.472] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 22:43:43.379] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 22:43:44.378] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 22:43:45.474] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 22:43:46.373] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 22:43:47.372] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 22:43:48.476] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 22:43:49.377] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 22:43:49.625] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 22:43:55.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Hunter
+[20Aug2025 22:43:57.243] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Aug2025 22:43:57.244] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[20Aug2025 22:43:57.317] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 22:43:57.490] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755729837482
+[20Aug2025 22:45:09.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd timed out
+[20Aug2025 22:45:09.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player joaocover
+[20Aug2025 22:45:09.984] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to joaocover
+[20Aug2025 22:45:09.984] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with joaocover
+[20Aug2025 22:45:09.984] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with joaocover
+[20Aug2025 22:45:09.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[20Aug2025 22:45:09.985] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd to disconnected: {disabled=false, disconnected=true, uuid=ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd, name=joaocover, group=dc2dd092-fbea-4b01-b5db-201649b5efd1}
+[20Aug2025 22:45:27.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[20Aug2025 22:45:27.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[20Aug2025 22:45:27.980] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of joaocover
+[20Aug2025 22:45:27.982] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[20Aug2025 22:45:28.044] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Aug2025 22:48:12.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2025 22:48:12.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
