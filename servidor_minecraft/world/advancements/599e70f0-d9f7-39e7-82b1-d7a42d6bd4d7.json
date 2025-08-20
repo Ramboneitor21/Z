@@ -1012,7 +1012,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-08-20 00:13:34 +0000"
+      "apple": "2025-08-20 00:13:34 +0000",
+      "bread": "2025-08-20 22:53:30 +0000"
     },
     "done": false
   },
@@ -2837,6 +2838,12 @@
   "farmersdelight:recipes/decorations/rope_from_safety_net": {
     "criteria": {
       "has_safety_net": "2025-08-20 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-08-20 23:09:42 +0000"
     },
     "done": true
   },
