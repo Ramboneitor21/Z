@@ -1495,3 +1495,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [20Aug2025 23:18:55.177] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
 [20Aug2025 23:18:55.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
 [20Aug2025 23:18:55.178] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[20Aug2025 23:24:24.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[20Aug2025 23:29:03.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[20Aug2025 23:31:35.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[20Aug2025 23:32:03.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]

@@ -9927,3 +9927,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [20Aug2025 23:18:55.178] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of joaocover
 [20Aug2025 23:18:55.178] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
 [20Aug2025 23:18:55.355] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd does not have a secret
+[20Aug2025 23:23:12.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2025 23:23:12.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Aug2025 23:24:24.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[20Aug2025 23:27:04.252] [Server thread/DEBUG] [mixin/]: Mixing travelersbackpack.ResultSlotExtMixin from sona.mixins.json into com.tiviacz.travelersbackpack.inventory.menu.slot.ResultSlotExt
+[20Aug2025 23:28:11.929] [Server thread/DEBUG] [mixin/]: Mixing MixinFluidBucketWrapper from thirst.mixin.json into net.minecraftforge.fluids.capability.wrappers.FluidBucketWrapper
+[20Aug2025 23:28:12.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2025 23:28:12.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Aug2025 23:28:22.302] [Server thread/DEBUG] [mixin/]: Mixing MixinFluidUtil from thirst.mixin.json into net.minecraftforge.fluids.FluidUtil
+[20Aug2025 23:29:03.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[20Aug2025 23:31:35.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[20Aug2025 23:32:03.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
