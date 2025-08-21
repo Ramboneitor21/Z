@@ -1383,3 +1383,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Aug2025 21:47:57.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> CHAT?
 [21Aug2025 21:48:00.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> YES
 [21Aug2025 21:48:23.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[21Aug2025 21:48:44.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by joaocover
+[21Aug2025 21:48:46.865] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 21:48:46.865] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[21Aug2025 21:50:14.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from joaocover: Location (-1038.4243559241295, 65.3125, -1629.5183230042458) too far away from hit block BlockPos{x=-1038, y=64, z=-1629}.
+[21Aug2025 21:53:24.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Walker
+[21Aug2025 21:53:25.469] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 21:53:25.470] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[21Aug2025 21:54:42.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Runner
+[21Aug2025 21:54:43.366] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 21:54:43.366] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[21Aug2025 21:57:28.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Patient Zero
+[21Aug2025 21:57:29.516] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 21:57:29.516] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[21Aug2025 21:57:35.713] [Server thread/INFO] [Scaling Health/]: Blight Walker has died

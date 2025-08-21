@@ -9667,3 +9667,144 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Aug2025 21:48:12.064] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of joaocover: {disabled=false, disconnected=false, uuid=ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd, name=joaocover, group=69f3c6c9-eba1-4420-9dc3-630950622fc8}
 [21Aug2025 21:48:23.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
 [21Aug2025 21:48:38.366] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:48:38.866] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:48:39.371] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:48:39.867] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:48:40.369] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:48:40.868] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:48:41.367] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:48:41.870] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:48:42.369] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:48:42.875] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:48:43.370] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:48:43.873] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:48:44.368] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:48:44.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by joaocover
+[21Aug2025 21:48:46.864] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:48:46.865] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 21:48:46.865] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[21Aug2025 21:48:47.061] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755812927061
+[21Aug2025 21:50:14.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from joaocover: Location (-1038.4243559241295, 65.3125, -1629.5183230042458) too far away from hit block BlockPos{x=-1038, y=64, z=-1629}.
+[21Aug2025 21:52:01.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Aug2025 21:52:01.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Aug2025 21:52:41.206] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:52:53.312] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:52:53.808] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:52:54.857] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:52:55.759] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:52:58.458] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:52:58.754] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:53:07.608] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:53:08.814] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:53:10.512] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:53:13.082] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:53:17.657] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:53:24.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Walker
+[21Aug2025 21:53:25.469] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:53:25.469] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 21:53:25.470] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[21Aug2025 21:53:25.723] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755813205720
+[21Aug2025 21:54:03.981] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:54:23.266] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:54:24.558] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:54:25.731] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:54:31.357] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:54:32.311] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:54:32.860] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:54:33.563] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:54:34.107] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:54:42.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Runner
+[21Aug2025 21:54:43.365] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:54:43.366] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 21:54:43.366] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[21Aug2025 21:54:43.623] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755813283601
+[21Aug2025 21:55:27.429] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:55:38.906] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:55:39.905] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:55:40.655] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:55:41.706] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:18.359] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:19.159] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:22.258] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:23.161] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:24.159] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:24.259] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:25.109] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:25.509] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:26.112] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:27.311] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:28.212] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:29.210] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:29.318] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:29.816] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:30.308] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:30.566] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:31.064] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:31.563] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:31.611] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:32.066] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:32.567] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:33.069] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:33.670] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:34.163] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:34.664] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:35.163] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:35.666] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:36.166] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:36.765] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:37.467] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:37.969] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:38.714] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:39.212] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:39.764] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:40.263] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:41.116] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:41.612] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:42.114] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:42.621] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:43.113] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:43.762] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:44.264] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:44.768] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:45.264] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:45.766] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:46.264] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:46.863] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:47.363] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:47.862] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:48.365] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:48.861] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:49.365] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:49.865] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:50.366] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:50.867] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:51.366] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:51.864] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:52.362] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:52.914] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:53.418] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:53.915] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:54.416] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:54.915] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:55.462] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:56.121] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:56.620] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:57.163] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:57.715] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:58.216] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:56:58.762] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:57:01.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Aug2025 21:57:01.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Aug2025 21:57:11.504] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:57:18.704] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:57:28.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Patient Zero
+[21Aug2025 21:57:29.515] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:57:29.516] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 21:57:29.516] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[21Aug2025 21:57:29.765] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755813449755
+[21Aug2025 21:57:35.713] [Server thread/INFO] [Scaling Health/]: Blight Walker has died
+[21Aug2025 21:57:42.763] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:58:13.975] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:58:14.675] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:58:19.855] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 21:58:20.879] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
