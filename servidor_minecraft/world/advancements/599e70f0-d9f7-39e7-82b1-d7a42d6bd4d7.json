@@ -2878,15 +2878,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-21 01:33:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
     "criteria": {
       "has_barrel": "2025-08-20 23:45:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-21 01:33:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-20 23:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-21 01:33:31 +0000"
     },
     "done": true
   },
@@ -2926,9 +2950,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-08-20 23:38:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
     },
     "done": true
   },
@@ -2941,6 +2977,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-08-20 23:38:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
     },
     "done": true
   },
@@ -2968,9 +3010,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-21 01:38:30 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/red_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-08-21 01:20:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
     },
     "done": true
   },
@@ -3052,6 +3106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-21 01:38:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2025-08-21 01:20:03 +0000"
@@ -3070,6 +3130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-21 01:38:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-08-21 01:20:03 +0000"
@@ -3082,6 +3148,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2025-08-21 01:38:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-21 01:20:03 +0000"
@@ -3091,6 +3169,18 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2025-08-21 01:06:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-21 01:33:31 +0000"
     },
     "done": true
   },
@@ -3148,6 +3238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-21 01:38:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-08-20 23:41:01 +0000"
@@ -3163,6 +3259,12 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-08-20 23:34:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
     },
     "done": true
   },
@@ -3184,9 +3286,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-21 01:33:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/cyan_postbox": {
     "criteria": {
       "has_barrel": "2025-08-20 23:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-21 01:33:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
     },
     "done": true
   },
@@ -3205,6 +3325,18 @@
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-08-20 23:57:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-21 01:33:31 +0000"
     },
     "done": true
   },
@@ -3241,6 +3373,12 @@
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-08-21 00:59:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
     },
     "done": true
   },
@@ -3292,9 +3430,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
       "has_standard": "2025-08-21 00:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-21 01:33:31 +0000"
     },
     "done": true
   },
@@ -3319,6 +3469,12 @@
   "immersive_weathering:recipes/stone_bricks": {
     "criteria": {
       "has_copper_block": "2025-08-20 23:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-21 01:33:31 +0000"
     },
     "done": true
   },
@@ -3358,6 +3514,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/purple_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-08-21 01:20:03 +0000"
@@ -3373,6 +3535,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-08-21 00:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-21 01:33:31 +0000"
     },
     "done": true
   },
@@ -3424,6 +3592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-21 01:33:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-20 23:34:31 +0000"
@@ -3433,6 +3607,12 @@
   "mca:recipes/decorations/cyan_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-08-21 01:20:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
     },
     "done": true
   },
@@ -3466,6 +3646,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-21 01:33:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-08-21 00:46:08 +0000"
@@ -3481,6 +3673,12 @@
   "mca:recipes/decorations/brown_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-08-21 01:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-21 01:33:31 +0000"
     },
     "done": true
   },
@@ -3520,6 +3718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-21 01:38:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-08-21 00:17:22 +0000"
@@ -3529,6 +3733,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-08-20 23:46:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
     },
     "done": true
   },
@@ -3580,15 +3790,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-21 01:33:31 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/gray_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-08-21 01:20:03 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-21 01:06:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
     },
     "done": true
   },
@@ -3646,6 +3874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-21 01:38:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-08-20 23:38:22 +0000"
@@ -3655,6 +3889,12 @@
   "create:recipes/building_blocks/crafting/logistics/red_postbox": {
     "criteria": {
       "has_barrel": "2025-08-20 23:45:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-21 01:38:31 +0000"
     },
     "done": true
   },
@@ -3673,6 +3913,12 @@
   "create:recipes/misc/crafting/kinetics/item_vault": {
     "criteria": {
       "has_item": "2025-08-20 23:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-21 01:33:31 +0000"
     },
     "done": true
   },
