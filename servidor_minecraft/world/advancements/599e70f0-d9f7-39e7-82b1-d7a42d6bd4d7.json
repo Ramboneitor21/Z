@@ -3478,6 +3478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-21 01:51:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-21 01:06:12 +0000"
@@ -3643,6 +3649,12 @@
   "create:recipes/building_blocks/crafting/logistics/white_postbox": {
     "criteria": {
       "has_barrel": "2025-08-20 23:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-08-21 01:51:44 +0000"
     },
     "done": true
   },
