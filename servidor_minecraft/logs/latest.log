@@ -1578,3 +1578,49 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Aug2025 22:36:00.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Timed out
 [21Aug2025 22:36:00.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
 [21Aug2025 22:36:00.806] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[21Aug2025 22:44:04.254] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{joaocover})
+[21Aug2025 22:44:13.066] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:41779] logged in with entity id 16535 at (-1124.1099811181318, -20.0, -1145.0182110725054)
+[21Aug2025 22:44:13.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[21Aug2025 22:44:13.149] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[21Aug2025 22:44:13.474] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[21Aug2025 22:44:13.474] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[21Aug2025 22:44:33.243] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[21Aug2025 22:44:34.244] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[21Aug2025 22:44:34.245] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[21Aug2025 22:52:06.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> no XD
+[21Aug2025 22:54:03.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> tas ahi XD?
+[21Aug2025 22:54:40.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> XD
+[21Aug2025 22:54:44.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover hit the ground too hard
+[21Aug2025 22:54:45.876] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 22:54:45.876] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Aug2025 22:56:42.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> XD
+[21Aug2025 22:58:12.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
+[21Aug2025 22:58:13.687] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 22:58:13.687] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[21Aug2025 23:04:14.275] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7 timed out
+[21Aug2025 23:04:14.275] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player C0LIGAMES
+[21Aug2025 23:04:14.276] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[21Aug2025 23:04:30.204] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Timed out
+[21Aug2025 23:04:30.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[21Aug2025 23:04:30.205] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[21Aug2025 23:05:20.406] [Server thread/INFO] [Scaling Health/]: Blight Looter has died
+[21Aug2025 23:05:33.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:42943] logged in with entity id 20626 at (-1160.8055586397304, -13.125, -1074.762504263074)
+[21Aug2025 23:05:33.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[21Aug2025 23:05:34.045] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[21Aug2025 23:05:35.258] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[21Aug2025 23:05:35.258] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[21Aug2025 23:05:56.275] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[21Aug2025 23:05:57.257] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[21Aug2025 23:05:57.258] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[21Aug2025 23:06:14.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover fell off a ladder
+[21Aug2025 23:06:15.761] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 23:06:15.761] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[21Aug2025 23:06:47.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
+[21Aug2025 23:06:48.408] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 23:06:48.408] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Aug2025 23:08:43.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
+[21Aug2025 23:08:44.262] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 23:08:44.262] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[21Aug2025 23:09:23.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
+[21Aug2025 23:09:24.917] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 23:09:24.917] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
