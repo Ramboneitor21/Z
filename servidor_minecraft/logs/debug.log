@@ -13196,3 +13196,67 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Aug2025 23:09:24.917] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [21Aug2025 23:09:24.917] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [21Aug2025 23:09:25.130] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755817765130
+[21Aug2025 23:09:59.862] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:10:02.205] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:10:03.103] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:10:38.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> TNT
+[21Aug2025 23:12:01.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Aug2025 23:12:01.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Aug2025 23:12:14.905] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:12:19.660] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:12:38.755] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:12:48.804] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:13:42.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> XD
+[21Aug2025 23:14:44.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[21Aug2025 23:14:47.410] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:14:54.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by C0LIGAMES
+[21Aug2025 23:14:55.515] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:14:55.515] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 23:14:55.515] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Aug2025 23:14:55.733] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755818095733
+[21Aug2025 23:14:59.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[21Aug2025 23:15:53.455] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:15:53.804] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:17:01.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Aug2025 23:17:01.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Aug2025 23:17:02.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> ven
+[21Aug2025 23:17:03.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> falta
+[21Aug2025 23:17:11.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> mira
+[21Aug2025 23:17:18.107] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:17:20.454] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:17:33.100] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:18:51.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[21Aug2025 23:18:58.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[21Aug2025 23:19:03.905] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:19:05.057] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:19:08.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to joaocover]
+[21Aug2025 23:21:03.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> si
+[21Aug2025 23:21:05.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> vamos
+[21Aug2025 23:21:21.853] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:21:22.503] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:21:23.504] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:22:01.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Aug2025 23:22:01.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Aug2025 23:22:12.603] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:22:13.801] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:22:18.304] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:22:18.305] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:22:19.852] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:22:20.450] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:22:21.853] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:22:26.401] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:22:34.757] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:22:40.055] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:22:40.254] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:22:42.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> XD
+[21Aug2025 23:24:06.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> 2 stacks de diamonds XD
+[21Aug2025 23:24:36.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> safemos
+[21Aug2025 23:25:07.125] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:25:29.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> NO JODAS XD
+[21Aug2025 23:25:44.305] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Aug2025 23:26:56.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> ya safemos
+[21Aug2025 23:27:01.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Aug2025 23:27:01.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Aug2025 23:27:19.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> vamo
+[21Aug2025 23:28:27.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to joaocover]
+[21Aug2025 23:28:55.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> vamonos
