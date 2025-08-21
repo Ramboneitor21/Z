@@ -2740,6 +2740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-08-21 02:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-08-21 01:27:55 +0000"
@@ -3256,6 +3262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-08-21 02:28:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-21 01:35:25 +0000"
@@ -3277,6 +3289,12 @@
   "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-21 02:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-08-21 02:28:53 +0000"
     },
     "done": true
   },
@@ -3355,6 +3373,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-21 01:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-21 02:29:22 +0000"
     },
     "done": true
   },
@@ -3505,6 +3529,18 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-21 01:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-08-21 02:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-08-21 02:29:22 +0000"
     },
     "done": true
   },
