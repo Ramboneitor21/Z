@@ -9999,3 +9999,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [20Aug2025 23:48:12.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Aug2025 23:48:13.135] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
 [20Aug2025 23:49:34.007] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 23:53:01.968] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 23:53:12.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2025 23:53:12.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Aug2025 23:54:08.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[20Aug2025 23:55:19.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[20Aug2025 23:55:49.169] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 23:56:22.918] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 23:57:00.019] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 23:58:12.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2025 23:58:12.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Aug2025 23:59:23.668] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 23:59:27.069] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 23:59:27.317] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 23:59:27.367] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 23:59:41.221] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 23:59:42.618] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 23:59:43.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 23:59:53.419] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
