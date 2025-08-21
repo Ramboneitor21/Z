@@ -1369,3 +1369,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Aug2025 21:35:05.921] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [21Aug2025 21:35:05.921] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [21Aug2025 21:35:05.921] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[21Aug2025 21:46:32.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[21Aug2025 21:46:39.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.126.30.161:59703] logged in with entity id 1919 at (-778.774643317524, 90.0, -1527.6309869098677)
+[21Aug2025 21:46:39.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[21Aug2025 21:46:39.690] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[21Aug2025 21:46:43.881] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[21Aug2025 21:46:43.882] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[21Aug2025 21:47:14.310] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[21Aug2025 21:47:15.312] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[21Aug2025 21:47:15.313] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[21Aug2025 21:47:40.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> holas
+[21Aug2025 21:47:55.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[21Aug2025 21:47:57.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> CHAT?
+[21Aug2025 21:48:00.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> YES
+[21Aug2025 21:48:23.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
