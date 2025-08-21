@@ -1015,8 +1015,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-08-20 00:13:34 +0000",
+      "potato": "2025-08-21 00:15:02 +0000",
       "bread": "2025-08-20 22:53:30 +0000",
-      "enchanted_golden_apple": "2025-08-20 23:35:42 +0000"
+      "enchanted_golden_apple": "2025-08-20 23:35:42 +0000",
+      "mushroom_stew": "2025-08-21 00:17:22 +0000"
     },
     "done": false
   },
@@ -2952,6 +2954,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-08-21 00:17:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-08-20 23:34:45 +0000"
@@ -3048,6 +3056,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-21 00:17:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2025-08-20 23:53:44 +0000"
@@ -3075,6 +3089,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-20 23:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-08-21 00:17:07 +0000"
     },
     "done": true
   },
@@ -3192,6 +3212,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-21 00:17:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-08-20 23:46:17 +0000"
@@ -3243,6 +3269,12 @@
   "travelersbackpack:recipes/misc/nether": {
     "criteria": {
       "has_nether_wart": "2025-08-20 23:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-08-21 00:17:07 +0000"
     },
     "done": true
   },
