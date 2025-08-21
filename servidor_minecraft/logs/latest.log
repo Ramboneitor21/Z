@@ -9,3 +9,74 @@
 [21Aug2025 00:20:46.633] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for C0LIGAMES with unique ID travelersbackpack.standard_21.08.2025-00.20.46.dat
 [21Aug2025 00:20:48.134] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [21Aug2025 00:20:48.135] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[21Aug2025 00:23:15.119] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23384324[id=<null>,name=UnMarshelo,properties={},legacy=false] (/127.111.154.181:35465) lost connection: Disconnected
+[21Aug2025 00:23:50.521] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61b21b8a[id=<null>,name=UnMarshelo,properties={},legacy=false] (/127.111.154.181:38485) lost connection: Disconnected
+[21Aug2025 00:24:56.822] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27381be4[id=<null>,name=UnMarshelo,properties={},legacy=false] (/127.111.154.181:56893) lost connection: Disconnected
+[21Aug2025 00:24:57.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Friendship Found]
+[21Aug2025 00:26:10.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> ZZZZZZZZZZZZZZ
+[21Aug2025 00:26:59.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Just What I Always Wanted]
+[21Aug2025 00:27:53.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has completed the challenge [Best Friends]
+[21Aug2025 00:28:29.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnMarshelo[/127.111.154.181:37823] logged in with entity id 24241 at (-828.5, 88.0, -1508.5)
+[21Aug2025 00:28:29.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo joined the game
+[21Aug2025 00:28:29.382] [Server thread/INFO] [Jade/]: Syncing config to UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38)
+[21Aug2025 00:28:31.899] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnMarshelo (18)
+[21Aug2025 00:28:31.900] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnMarshelo
+[21Aug2025 00:28:44.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> XD
+[21Aug2025 00:28:45.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> olas
+[21Aug2025 00:28:47.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[21Aug2025 00:28:47.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> ya ligue
+[21Aug2025 00:28:48.079] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[21Aug2025 00:28:48.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38) successfully connected to voice chat
+[21Aug2025 00:29:35.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement ['Til Death Do Us Part]
+[21Aug2025 00:29:56.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> XD
+[21Aug2025 00:30:41.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> XD
+[21Aug2025 00:35:06.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from UnMarshelo: Location (-1024.5518612861633, 64.625, -1523.6383581459522) too far away from hit block BlockPos{x=-1025, y=63, z=-1524}.
+[21Aug2025 00:35:06.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from UnMarshelo: Location (-1024.5518612861633, 64.625, -1523.6383581459522) too far away from hit block BlockPos{x=-1025, y=63, z=-1524}.
+[21Aug2025 00:36:38.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo died
+[21Aug2025 00:36:39.679] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 00:36:39.679] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[21Aug2025 00:37:15.428] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
+[21Aug2025 00:38:18.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Zombie
+[21Aug2025 00:38:20.183] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 00:38:20.184] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Aug2025 00:39:38.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo fell from a high place
+[21Aug2025 00:39:39.983] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 00:39:39.983] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[21Aug2025 00:40:08.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from UnMarshelo: Location (-1081.544331341982, 71.0, -1390.5331837832928) too far away from hit block BlockPos{x=-1082, y=69, z=-1391}.
+[21Aug2025 00:41:01.066] [Worker-Main-24/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Aug2025 00:41:01.068] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[21Aug2025 00:41:01.069] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[21Aug2025 00:44:16.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> edy?
+[21Aug2025 00:44:27.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> me escuchas?
+[21Aug2025 00:44:50.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> no te escucho XD
+[21Aug2025 00:45:00.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> serio?
+[21Aug2025 00:45:09.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> te tepeo?
+[21Aug2025 00:45:14.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> si no te escucho
+[21Aug2025 00:45:20.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> y se hizo de noche de la nd
+[21Aug2025 00:45:28.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> por las estructuras creo xd
+[21Aug2025 00:45:32.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> XD
+[21Aug2025 00:45:35.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> mejor te tepeo XD
+[21Aug2025 00:45:53.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> encontre una wena cosa pa lotear, vienes?
+[21Aug2025 00:46:54.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> y jojajo no se conesta?
+[21Aug2025 00:47:36.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> DUERME MRD
+[21Aug2025 00:47:40.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> YA DE MIO MIEDITO
+[21Aug2025 00:47:49.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Zombie
+[21Aug2025 00:47:51.331] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Aug2025 00:47:51.331] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[21Aug2025 00:48:03.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> yap, pero creo que se hara de noche denuevo
+[21Aug2025 00:48:12.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> DUERME xd
+[21Aug2025 00:48:13.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> duerme tu mrd
+[21Aug2025 00:48:16.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> me da miedito
+[21Aug2025 00:48:25.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> aapoco
+[21Aug2025 00:48:35.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> me sigues pa lotear un sitio?
+[21Aug2025 00:48:44.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> on tas?
+[21Aug2025 00:49:08.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> paso cords ?+
+[21Aug2025 00:49:49.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> de la base que nos encontramos
+[21Aug2025 00:49:54.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> a la parte de "w"
+[21Aug2025 00:50:06.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> si
+[21Aug2025 00:50:15.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> o si ves cord ps -1049 62 -1492
+[21Aug2025 00:50:47.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> donde estás tu?
+[21Aug2025 00:51:31.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> pera
+[21Aug2025 00:51:34.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> en la misma base
+[21Aug2025 00:51:37.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> oka
+[21Aug2025 00:51:41.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> estoy haciendome una cantinplora XD
