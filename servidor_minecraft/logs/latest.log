@@ -32,3 +32,19 @@
 [22Aug2025 00:16:23.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> ESTE LUGAR DONDE ESTOY ES LA BASE?
 [22Aug2025 00:24:00.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> zzz
 [22Aug2025 00:24:30.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> ZZZZZZZZZZ
+[22Aug2025 00:28:14.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from joaocover: Location (-844.9769069701433, 88.77823317050934, -1511.3125) too far away from hit block BlockPos{x=-845, y=88, z=-1513}.
+[22Aug2025 00:28:14.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from joaocover: Location (-844.9769069701433, 88.77823317050934, -1511.3125) too far away from hit block BlockPos{x=-845, y=88, z=-1513}.
+[22Aug2025 00:29:01.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover was kicked for floating too long!
+[22Aug2025 00:29:02.017] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Flying is not enabled on this server
+[22Aug2025 00:29:02.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[22Aug2025 00:29:02.018] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[22Aug2025 00:29:39.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[22Aug2025 00:30:05.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.126.30.161:59149] logged in with entity id 15613 at (-848.9061174874923, 90.23152379758702, -1492.814337297244)
+[22Aug2025 00:30:05.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[22Aug2025 00:30:05.133] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[22Aug2025 00:30:06.670] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[22Aug2025 00:30:06.670] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[22Aug2025 00:30:18.491] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[22Aug2025 00:30:19.750] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[22Aug2025 00:30:19.751] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[22Aug2025 00:32:19.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
