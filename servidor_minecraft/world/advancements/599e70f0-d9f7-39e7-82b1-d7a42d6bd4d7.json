@@ -4147,6 +4147,12 @@
     },
     "done": true
   },
+  "mca:adventure/staff_of_life": {
+    "criteria": {
+      "iron": "2025-08-22 00:50:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_timer": {
     "criteria": {
       "has_item": "2025-08-22 00:14:09 +0000"
