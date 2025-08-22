@@ -10928,3 +10928,99 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Aug2025 00:56:01.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Aug2025 01:01:01.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Aug2025 01:01:01.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Aug2025 01:06:01.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Aug2025 01:06:01.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Aug2025 01:08:29.983] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2090608555 to 17
+[22Aug2025 01:08:35.216] [Server thread/DEBUG] [pointblank/]: 15216 handling client fire request
+[22Aug2025 01:08:35.216] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2090608555 to 16
+[22Aug2025 01:08:35.219] [Server thread/DEBUG] [pointblank/]: 15219 - obtained hit result in 0ms
+[22Aug2025 01:08:35.219] [Server thread/DEBUG] [pointblank/]: 15219 obtained hit results
+[22Aug2025 01:08:35.219] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@73be0f47
+[22Aug2025 01:08:35.220] [Server thread/DEBUG] [pointblank/]: ServerPlayer['C0LIGAMES'/5321, l='ServerLevel[world]', x=-836.41, y=88.00, z=-1501.10] sends hit scan notification to ServerPlayer['C0LIGAMES'/5321, l='ServerLevel[world]', x=-836.41, y=88.00, z=-1501.10]
+[22Aug2025 01:08:35.825] [Server thread/DEBUG] [pointblank/]: 15825 handling client fire request
+[22Aug2025 01:08:35.825] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2090608555 to 15
+[22Aug2025 01:08:35.825] [Server thread/DEBUG] [pointblank/]: 15825 - obtained hit result in 0ms
+[22Aug2025 01:08:35.825] [Server thread/DEBUG] [pointblank/]: 15825 obtained hit results
+[22Aug2025 01:08:35.825] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@42b94e71
+[22Aug2025 01:08:35.825] [Server thread/DEBUG] [pointblank/]: ServerPlayer['C0LIGAMES'/5321, l='ServerLevel[world]', x=-836.41, y=88.00, z=-1501.10] sends hit scan notification to ServerPlayer['C0LIGAMES'/5321, l='ServerLevel[world]', x=-836.41, y=88.00, z=-1501.10]
+[22Aug2025 01:08:36.275] [Server thread/DEBUG] [pointblank/]: 16275 handling client fire request
+[22Aug2025 01:08:36.275] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2090608555 to 14
+[22Aug2025 01:08:36.276] [Server thread/DEBUG] [pointblank/]: 16276 - obtained hit result in 0ms
+[22Aug2025 01:08:36.276] [Server thread/DEBUG] [pointblank/]: 16276 obtained hit results
+[22Aug2025 01:08:36.276] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6a7b572c
+[22Aug2025 01:08:36.276] [Server thread/DEBUG] [pointblank/]: ServerPlayer['C0LIGAMES'/5321, l='ServerLevel[world]', x=-836.41, y=88.00, z=-1501.10] sends hit scan notification to ServerPlayer['C0LIGAMES'/5321, l='ServerLevel[world]', x=-836.41, y=88.00, z=-1501.10]
+[22Aug2025 01:08:36.524] [Server thread/DEBUG] [pointblank/]: 16524 handling client fire request
+[22Aug2025 01:08:36.524] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2090608555 to 13
+[22Aug2025 01:08:36.524] [Server thread/DEBUG] [pointblank/]: 16524 - obtained hit result in 0ms
+[22Aug2025 01:08:36.524] [Server thread/DEBUG] [pointblank/]: 16524 obtained hit results
+[22Aug2025 01:08:36.524] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@550e7c24
+[22Aug2025 01:08:36.524] [Server thread/DEBUG] [pointblank/]: ServerPlayer['C0LIGAMES'/5321, l='ServerLevel[world]', x=-836.41, y=88.00, z=-1501.10] sends hit scan notification to ServerPlayer['C0LIGAMES'/5321, l='ServerLevel[world]', x=-836.41, y=88.00, z=-1501.10]
+[22Aug2025 01:08:36.674] [Server thread/DEBUG] [pointblank/]: 16674 handling client fire request
+[22Aug2025 01:08:36.674] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2090608555 to 12
+[22Aug2025 01:08:36.675] [Server thread/DEBUG] [pointblank/]: 16675 - obtained hit result in 0ms
+[22Aug2025 01:08:36.675] [Server thread/DEBUG] [pointblank/]: 16675 obtained hit results
+[22Aug2025 01:08:36.675] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2cb7d424
+[22Aug2025 01:08:36.675] [Server thread/DEBUG] [pointblank/]: ServerPlayer['C0LIGAMES'/5321, l='ServerLevel[world]', x=-836.41, y=88.00, z=-1501.10] sends hit scan notification to ServerPlayer['C0LIGAMES'/5321, l='ServerLevel[world]', x=-836.41, y=88.00, z=-1501.10]
+[22Aug2025 01:08:36.829] [Server thread/DEBUG] [pointblank/]: 16829 handling client fire request
+[22Aug2025 01:08:36.829] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2090608555 to 11
+[22Aug2025 01:08:36.830] [Server thread/DEBUG] [pointblank/]: 16830 - obtained hit result in 0ms
+[22Aug2025 01:08:36.830] [Server thread/DEBUG] [pointblank/]: 16830 obtained hit results
+[22Aug2025 01:08:36.830] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@16bc2b3f
+[22Aug2025 01:08:36.830] [Server thread/DEBUG] [pointblank/]: ServerPlayer['C0LIGAMES'/5321, l='ServerLevel[world]', x=-836.41, y=88.00, z=-1501.10] sends hit scan notification to ServerPlayer['C0LIGAMES'/5321, l='ServerLevel[world]', x=-836.41, y=88.00, z=-1501.10]
+[22Aug2025 01:08:37.123] [Server thread/DEBUG] [pointblank/]: 17123 handling client fire request
+[22Aug2025 01:08:37.123] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2090608555 to 10
+[22Aug2025 01:08:37.124] [Server thread/DEBUG] [pointblank/]: 17124 - obtained hit result in 1ms
+[22Aug2025 01:08:37.124] [Server thread/DEBUG] [pointblank/]: 17124 obtained hit results
+[22Aug2025 01:08:37.124] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@38b4ebee
+[22Aug2025 01:08:37.124] [Server thread/DEBUG] [pointblank/]: ServerPlayer['C0LIGAMES'/5321, l='ServerLevel[world]', x=-836.41, y=88.00, z=-1501.10] sends hit scan notification to ServerPlayer['C0LIGAMES'/5321, l='ServerLevel[world]', x=-836.41, y=88.00, z=-1501.10]
+[22Aug2025 01:08:37.273] [Server thread/DEBUG] [pointblank/]: 17273 handling client fire request
+[22Aug2025 01:08:37.273] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2090608555 to 9
+[22Aug2025 01:08:37.274] [Server thread/DEBUG] [pointblank/]: 17274 - obtained hit result in 0ms
+[22Aug2025 01:08:37.274] [Server thread/DEBUG] [pointblank/]: 17274 obtained hit results
+[22Aug2025 01:08:37.274] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3de0ba51
+[22Aug2025 01:08:37.274] [Server thread/DEBUG] [pointblank/]: ServerPlayer['C0LIGAMES'/5321, l='ServerLevel[world]', x=-836.41, y=88.00, z=-1501.10] sends hit scan notification to ServerPlayer['C0LIGAMES'/5321, l='ServerLevel[world]', x=-836.41, y=88.00, z=-1501.10]
+[22Aug2025 01:11:01.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Aug2025 01:11:01.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Aug2025 01:15:19.110] [Server thread/INFO] [Scaling Health/]: Blight Walker has died
+[22Aug2025 01:16:01.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Aug2025 01:16:01.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Aug2025 01:21:01.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Aug2025 01:21:01.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Aug2025 01:21:51.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[22Aug2025 01:22:50.810] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 01:22:51.511] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 01:24:20.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[22Aug2025 01:24:29.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[22Aug2025 01:24:32.066] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[22Aug2025 01:24:32.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[22Aug2025 01:24:32.066] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of C0LIGAMES
+[22Aug2025 01:24:32.068] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[22Aug2025 01:24:35.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Aug2025 01:24:36.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Aug2025 01:24:36.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Aug2025 01:24:36.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Aug2025 01:24:36.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Aug2025 01:24:37.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Aug2025 01:24:37.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[22Aug2025 01:24:37.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Aug2025 01:24:37.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[22Aug2025 01:24:37.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Aug2025 01:24:37.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Aug2025 01:24:37.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Aug2025 01:24:37.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Aug2025 01:24:37.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[22Aug2025 01:24:37.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Aug2025 01:24:37.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[22Aug2025 01:24:37.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Aug2025 01:24:37.853] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[22Aug2025 01:24:37.853] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[22Aug2025 01:24:37.889] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[22Aug2025 01:24:37.889] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[22Aug2025 01:24:37.889] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for lostcities:lostcity
+[22Aug2025 01:24:37.889] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for lostcities:lostcity
+[22Aug2025 01:24:37.890] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[22Aug2025 01:24:37.890] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[22Aug2025 01:24:37.890] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for grotesque_steve:stomach
+[22Aug2025 01:24:37.890] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for grotesque_steve:stomach
+[22Aug2025 01:24:37.892] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[22Aug2025 01:24:37.897] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
