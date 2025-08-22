@@ -48,3 +48,13 @@
 [22Aug2025 00:30:19.750] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
 [22Aug2025 00:30:19.751] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
 [22Aug2025 00:32:19.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[22Aug2025 00:37:02.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[22Aug2025 00:38:31.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[22Aug2025 00:38:31.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[22Aug2025 00:38:31.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by C0LIGAMES
+[22Aug2025 00:38:31.671] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[22Aug2025 00:42:11.766] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Randah'/3668, l='ServerLevel[world]', x=-844.54, y=88.00, z=-1494.51] died, message: 'Randah (Staying) was slain by Walker '
+[22Aug2025 00:42:11.771] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Randah'/3668, l='ServerLevel[world]', x=-844.54, y=88.00, z=-1494.51] died: Randah (Staying) was slain by Walker 
+[22Aug2025 00:42:35.316] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sihaam'/3669, l='ServerLevel[world]', x=-877.03, y=51.00, z=-1534.10] died, message: 'Sihaam (Staying) was slain by Infected Police'
+[22Aug2025 00:42:35.316] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sihaam'/3669, l='ServerLevel[world]', x=-877.03, y=51.00, z=-1534.10] died: Sihaam (Staying) was slain by Infected Police
+[22Aug2025 00:45:06.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]

@@ -10857,3 +10857,53 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Aug2025 00:31:01.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Aug2025 00:31:01.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Aug2025 00:32:19.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[22Aug2025 00:36:01.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Aug2025 00:36:01.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Aug2025 00:37:02.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[22Aug2025 00:37:56.719] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:37:56.720] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:37:56.815] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:37:56.816] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:04.365] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:04.365] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:05.617] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:05.617] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:05.718] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:05.719] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:06.916] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:06.916] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:07.018] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:07.018] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:08.314] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:08.315] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:08.416] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:08.416] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:08.516] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:08.517] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:08.616] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:08.617] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:08.716] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:08.717] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:08.816] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:08.817] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:08.965] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:08.966] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[22Aug2025 00:38:31.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[22Aug2025 00:38:31.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[22Aug2025 00:38:31.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by C0LIGAMES
+[22Aug2025 00:38:31.671] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of joaocover
+[22Aug2025 00:38:31.671] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[22Aug2025 00:41:01.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Aug2025 00:41:01.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Aug2025 00:42:11.766] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Randah'/3668, l='ServerLevel[world]', x=-844.54, y=88.00, z=-1494.51] died, message: 'Randah (Staying) was slain by Walker '
+[22Aug2025 00:42:11.771] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Randah'/3668, l='ServerLevel[world]', x=-844.54, y=88.00, z=-1494.51] died: Randah (Staying) was slain by Walker 
+[22Aug2025 00:42:35.316] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sihaam'/3669, l='ServerLevel[world]', x=-877.03, y=51.00, z=-1534.10] died, message: 'Sihaam (Staying) was slain by Infected Police'
+[22Aug2025 00:42:35.316] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sihaam'/3669, l='ServerLevel[world]', x=-877.03, y=51.00, z=-1534.10] died: Sihaam (Staying) was slain by Infected Police
+[22Aug2025 00:42:45.917] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755823365911
+[22Aug2025 00:42:45.917] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755823365911
+[22Aug2025 00:42:45.917] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755823365911
+[22Aug2025 00:42:45.917] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755823365911
+[22Aug2025 00:42:45.917] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755823365911
+[22Aug2025 00:42:45.917] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755823365911
+[22Aug2025 00:42:45.917] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755823365911
+[22Aug2025 00:45:06.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
