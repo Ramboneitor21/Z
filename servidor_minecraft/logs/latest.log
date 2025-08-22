@@ -1,18 +1,18 @@
-[22Aug2025 01:25:52.669] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[22Aug2025 01:25:52.673] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[22Aug2025 01:25:53.644] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[22Aug2025 01:25:53.699] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Z/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[22Aug2025 01:25:54.153] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Z/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[22Aug2025 01:25:54.154] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Z/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Aug2025 01:25:54.156] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Z/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Aug2025 01:25:54.157] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Z/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Aug2025 01:25:54.713] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: cloth_config. Using Mod File: /workspaces/Z/servidor_minecraft/mods/cloth-config-11.1.136-forge.jar
-[22Aug2025 01:25:54.713] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
-[22Aug2025 01:25:57.404] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[22Aug2025 01:25:57.589] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[22Aug2025 01:25:57.754] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Aug2025 01:25:57.803] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Aug2025 01:25:57.833] [main/INFO] [Puzzles Lib/]: Loading 70 mods:
+[22Aug2025 02:28:33.543] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[22Aug2025 02:28:33.548] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[22Aug2025 02:28:34.400] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[22Aug2025 02:28:34.449] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Z/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[22Aug2025 02:28:34.839] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Z/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[22Aug2025 02:28:34.840] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Z/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Aug2025 02:28:34.841] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Z/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Aug2025 02:28:34.842] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Z/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Aug2025 02:28:35.369] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: cloth_config. Using Mod File: /workspaces/Z/servidor_minecraft/mods/cloth-config-11.1.136-forge.jar
+[22Aug2025 02:28:35.370] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
+[22Aug2025 02:28:38.323] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Aug2025 02:28:38.513] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[22Aug2025 02:28:38.677] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Aug2025 02:28:38.737] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Aug2025 02:28:38.763] [main/INFO] [Puzzles Lib/]: Loading 70 mods:
 	- ags_day_counter 5.1
 	- aiimprovements 0.5.2
 	- apocalypsenow 3.0.5
@@ -66,8 +66,8 @@
 	- securitycraft 1.10.0.1
 	- silentlib 8.0.0
 	- sliceanddice 3.4.1
-	- sona 1.2.9
 		\-- mixinextras 0.4.1
+	- sona 1.2.9
 	- supermartijn642configlib 1.1.8
 	- supermartijn642corelib 1.1.18
 	- tacz 1.1.6-hotfix
@@ -83,478 +83,177 @@
 	- zombieawareness 1.20.1-1.13.1
 	- zombiekit 2.1.3
 	- zombiesmore 2.0.0
-[22Aug2025 01:25:58.462] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[22Aug2025 01:25:58.463] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[22Aug2025 01:25:58.464] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[22Aug2025 01:25:59.197] [main/WARN] [mixin/]: Error loading class: umpaz/brewinandchewin/common/block/entity/KegBlockEntity (java.lang.ClassNotFoundException: umpaz.brewinandchewin.common.block.entity.KegBlockEntity)
-[22Aug2025 01:25:59.197] [main/WARN] [mixin/]: @Mixin target umpaz.brewinandchewin.common.block.entity.KegBlockEntity was not found thirst.mixin.json:accessors.brewinandchewin.KegBlockEntityAccessor
-[22Aug2025 01:25:59.200] [main/WARN] [mixin/]: Error loading class: umpaz/brewinandchewin/common/block/entity/KegBlockEntity (java.lang.ClassNotFoundException: umpaz.brewinandchewin.common.block.entity.KegBlockEntity)
-[22Aug2025 01:25:59.200] [main/WARN] [mixin/]: @Mixin target umpaz.brewinandchewin.common.block.entity.KegBlockEntity was not found thirst.mixin.json:brewinandchewin.MixinKegBlockEntity
-[22Aug2025 01:25:59.203] [main/WARN] [mixin/]: Error loading class: umpaz/brewinandchewin/common/crafting/KegFermentingRecipe (java.lang.ClassNotFoundException: umpaz.brewinandchewin.common.crafting.KegFermentingRecipe)
-[22Aug2025 01:25:59.204] [main/WARN] [mixin/]: @Mixin target umpaz.brewinandchewin.common.crafting.KegFermentingRecipe was not found thirst.mixin.json:brewinandchewin.MixinKegFermentingRecipe
-[22Aug2025 01:25:59.219] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.entity.KettleBlockEntity)
-[22Aug2025 01:25:59.219] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.entity.KettleBlockEntity was not found thirst.mixin.json:farmersrespite.MixinKettleBlockEntity
-[22Aug2025 01:25:59.223] [main/WARN] [mixin/]: Error loading class: toughasnails/item/EmptyCanteenItem (java.lang.ClassNotFoundException: toughasnails.item.EmptyCanteenItem)
-[22Aug2025 01:25:59.223] [main/WARN] [mixin/]: @Mixin target toughasnails.item.EmptyCanteenItem was not found thirst.mixin.json:toughasnails.MixinEmptyCanteenItem
-[22Aug2025 01:25:59.225] [main/WARN] [mixin/]: Error loading class: toughasnails/config/ThirstConfig (java.lang.ClassNotFoundException: toughasnails.config.ThirstConfig)
-[22Aug2025 01:25:59.226] [main/WARN] [mixin/]: @Mixin target toughasnails.config.ThirstConfig was not found thirst.mixin.json:toughasnails.MixinServerConfig
-[22Aug2025 01:25:59.228] [main/WARN] [mixin/]: Error loading class: toughasnails/thirst/ThirstHandler (java.lang.ClassNotFoundException: toughasnails.thirst.ThirstHandler)
-[22Aug2025 01:25:59.228] [main/WARN] [mixin/]: @Mixin target toughasnails.thirst.ThirstHandler was not found thirst.mixin.json:toughasnails.MixinThirstHandler
-[22Aug2025 01:25:59.232] [main/WARN] [mixin/]: Error loading class: toughasnails/thirst/ThirstHelperImpl (java.lang.ClassNotFoundException: toughasnails.thirst.ThirstHelperImpl)
-[22Aug2025 01:25:59.232] [main/WARN] [mixin/]: @Mixin target toughasnails.thirst.ThirstHelperImpl was not found thirst.mixin.json:toughasnails.MixinThirstHelperImpl
-[22Aug2025 01:25:59.235] [main/WARN] [mixin/]: Error loading class: vazkii/botania/forge/xplat/ForgeXplatImpl (java.lang.ClassNotFoundException: vazkii.botania.forge.xplat.ForgeXplatImpl)
-[22Aug2025 01:25:59.235] [main/WARN] [mixin/]: @Mixin target vazkii.botania.forge.xplat.ForgeXplatImpl was not found thirst.mixin.json:botania.MixinForgeXplatImpl
-[22Aug2025 01:25:59.284] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
-[22Aug2025 01:25:59.285] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
-[22Aug2025 01:25:59.832] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22Aug2025 01:26:04.029] [main/WARN] [mixin/]: Mixin sona.mixins.json:ItemStackMixin has multiple constructors, (Ljava/lang/Class;)V was selected
+[22Aug2025 02:28:39.409] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[22Aug2025 02:28:39.410] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[22Aug2025 02:28:39.410] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[22Aug2025 02:28:40.262] [main/WARN] [mixin/]: Error loading class: umpaz/brewinandchewin/common/block/entity/KegBlockEntity (java.lang.ClassNotFoundException: umpaz.brewinandchewin.common.block.entity.KegBlockEntity)
+[22Aug2025 02:28:40.263] [main/WARN] [mixin/]: @Mixin target umpaz.brewinandchewin.common.block.entity.KegBlockEntity was not found thirst.mixin.json:accessors.brewinandchewin.KegBlockEntityAccessor
+[22Aug2025 02:28:40.265] [main/WARN] [mixin/]: Error loading class: umpaz/brewinandchewin/common/block/entity/KegBlockEntity (java.lang.ClassNotFoundException: umpaz.brewinandchewin.common.block.entity.KegBlockEntity)
+[22Aug2025 02:28:40.266] [main/WARN] [mixin/]: @Mixin target umpaz.brewinandchewin.common.block.entity.KegBlockEntity was not found thirst.mixin.json:brewinandchewin.MixinKegBlockEntity
+[22Aug2025 02:28:40.268] [main/WARN] [mixin/]: Error loading class: umpaz/brewinandchewin/common/crafting/KegFermentingRecipe (java.lang.ClassNotFoundException: umpaz.brewinandchewin.common.crafting.KegFermentingRecipe)
+[22Aug2025 02:28:40.269] [main/WARN] [mixin/]: @Mixin target umpaz.brewinandchewin.common.crafting.KegFermentingRecipe was not found thirst.mixin.json:brewinandchewin.MixinKegFermentingRecipe
+[22Aug2025 02:28:40.282] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.entity.KettleBlockEntity)
+[22Aug2025 02:28:40.283] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.entity.KettleBlockEntity was not found thirst.mixin.json:farmersrespite.MixinKettleBlockEntity
+[22Aug2025 02:28:40.288] [main/WARN] [mixin/]: Error loading class: toughasnails/item/EmptyCanteenItem (java.lang.ClassNotFoundException: toughasnails.item.EmptyCanteenItem)
+[22Aug2025 02:28:40.288] [main/WARN] [mixin/]: @Mixin target toughasnails.item.EmptyCanteenItem was not found thirst.mixin.json:toughasnails.MixinEmptyCanteenItem
+[22Aug2025 02:28:40.293] [main/WARN] [mixin/]: Error loading class: toughasnails/config/ThirstConfig (java.lang.ClassNotFoundException: toughasnails.config.ThirstConfig)
+[22Aug2025 02:28:40.297] [main/WARN] [mixin/]: @Mixin target toughasnails.config.ThirstConfig was not found thirst.mixin.json:toughasnails.MixinServerConfig
+[22Aug2025 02:28:40.299] [main/WARN] [mixin/]: Error loading class: toughasnails/thirst/ThirstHandler (java.lang.ClassNotFoundException: toughasnails.thirst.ThirstHandler)
+[22Aug2025 02:28:40.299] [main/WARN] [mixin/]: @Mixin target toughasnails.thirst.ThirstHandler was not found thirst.mixin.json:toughasnails.MixinThirstHandler
+[22Aug2025 02:28:40.301] [main/WARN] [mixin/]: Error loading class: toughasnails/thirst/ThirstHelperImpl (java.lang.ClassNotFoundException: toughasnails.thirst.ThirstHelperImpl)
+[22Aug2025 02:28:40.302] [main/WARN] [mixin/]: @Mixin target toughasnails.thirst.ThirstHelperImpl was not found thirst.mixin.json:toughasnails.MixinThirstHelperImpl
+[22Aug2025 02:28:40.304] [main/WARN] [mixin/]: Error loading class: vazkii/botania/forge/xplat/ForgeXplatImpl (java.lang.ClassNotFoundException: vazkii.botania.forge.xplat.ForgeXplatImpl)
+[22Aug2025 02:28:40.307] [main/WARN] [mixin/]: @Mixin target vazkii.botania.forge.xplat.ForgeXplatImpl was not found thirst.mixin.json:botania.MixinForgeXplatImpl
+[22Aug2025 02:28:40.387] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
+[22Aug2025 02:28:40.388] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
+[22Aug2025 02:28:40.959] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22Aug2025 02:28:44.605] [main/WARN] [mixin/]: Mixin sona.mixins.json:ItemStackMixin has multiple constructors, (Ljava/lang/Class;)V was selected
 
-[22Aug2025 01:26:08.004] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[22Aug2025 01:26:08.719] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
-[22Aug2025 01:26:09.148] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
-[22Aug2025 01:26:09.994] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.6 initializing! Commit hash: 338bfa0aec952fa51656e8f61bd621ca9b3b2e00
-[22Aug2025 01:26:10.108] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[22Aug2025 01:26:11.034] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
-[22Aug2025 01:26:11.484] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[22Aug2025 01:26:11.573] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[22Aug2025 01:26:11.573] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[22Aug2025 01:26:11.821] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
-[22Aug2025 01:26:12.067] [modloading-worker-0/INFO] [uncraftingtable76/]: [uncraftingtable76] Initializing...
-[22Aug2025 01:26:12.097] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[22Aug2025 01:26:12.098] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id uncraftingtable76:network_ctrl
-[22Aug2025 01:26:12.936] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@70d49a95 has been registered twice for the same name treechop:chop_wood.
-[22Aug2025 01:26:24.116] [main/INFO] [Moonlight/]: Initialized block sets in 13ms
-[22Aug2025 01:26:24.164] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_zombie_villager] was not realized!
-[22Aug2025 01:26:24.164] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_villager] was not realized!
-[22Aug2025 01:26:24.164] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_zombie_villager] was not realized!
-[22Aug2025 01:26:24.164] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_villager] was not realized!
-[22Aug2025 01:26:24.164] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:grim_reaper] was not realized!
-[22Aug2025 01:26:24.164] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_zombie_villager] was not realized!
-[22Aug2025 01:26:24.165] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_villager] was not realized!
-[22Aug2025 01:26:24.165] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_zombie_villager] was not realized!
-[22Aug2025 01:26:24.165] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_villager] was not realized!
-[22Aug2025 01:26:24.165] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:grim_reaper] was not realized!
-[22Aug2025 01:26:25.040] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
-[22Aug2025 01:26:25.062] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.062] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.062] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.063] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.063] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.063] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.063] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.063] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[22Aug2025 01:26:25.065] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.066] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.066] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.066] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.067] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.067] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.068] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.068] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.068] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.070] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.071] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.071] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[22Aug2025 01:26:25.072] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.077] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.078] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[22Aug2025 01:26:25.078] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.078] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[22Aug2025 01:26:25.079] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[22Aug2025 01:26:25.080] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.080] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.081] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.081] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.081] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.083] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.088] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.088] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.089] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.089] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.089] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:26:25.179] [modloading-worker-0/INFO] [com.muhammedesadcomert.protectmobsfromdaylight.forge.ProtectMobsFromDayLight/]: HELLO FROM COMMON SETUP
-[22Aug2025 01:26:25.179] [modloading-worker-0/INFO] [com.muhammedesadcomert.protectmobsfromdaylight.forge.ProtectMobsFromDayLight/]: DIRT BLOCK >> minecraft:dirt
-[22Aug2025 01:26:25.191] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
-[22Aug2025 01:26:25.223] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[22Aug2025 01:26:25.315] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[22Aug2025 01:26:25.340] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.16 initializing...
-[22Aug2025 01:26:25.343] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[22Aug2025 01:26:25.343] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[22Aug2025 01:26:25.343] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[22Aug2025 01:26:25.426] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
-[22Aug2025 01:26:25.490] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
-[22Aug2025 01:26:25.490] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[22Aug2025 01:26:25.494] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
-[22Aug2025 01:26:25.524] [modloading-worker-0/INFO] [net.antrolgaming.ags_daycounter.AgsDayCounterMod/]: [Day Counter] Loading config file...
-[22Aug2025 01:26:25.539] [modloading-worker-0/INFO] [net.antrolgaming.ags_daycounter.AgsDayCounterMod/]: [Day Counter] Config file successfuly loaded!
-[22Aug2025 01:26:25.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[22Aug2025 01:26:25.634] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.40 Target: null
-[22Aug2025 01:26:25.635] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[22Aug2025 01:26:25.693] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[22Aug2025 01:26:25.697] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[22Aug2025 01:26:26.027] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[22Aug2025 01:26:26.028] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[22Aug2025 01:26:26.028] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[22Aug2025 01:26:26.028] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[22Aug2025 01:26:26.028] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[22Aug2025 01:26:26.028] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[22Aug2025 01:26:26.028] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[22Aug2025 01:26:26.028] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[22Aug2025 01:26:26.028] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
-[22Aug2025 01:26:26.046] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[22Aug2025 01:26:26.047] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[22Aug2025 01:26:26.047] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[22Aug2025 01:26:26.047] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[22Aug2025 01:26:26.049] [main/INFO] [firstaid/]: Initializing PlayerRevive Compatibility...
-[22Aug2025 01:26:26.103] [main/INFO] [Moonlight/]: Initialized color sets in 43ms
-[22Aug2025 01:26:26.238] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[22Aug2025 01:26:26.241] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[22Aug2025 01:26:26.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.21 Target: null
-[22Aug2025 01:26:26.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[22Aug2025 01:26:26.380] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
-[22Aug2025 01:26:26.393] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[22Aug2025 01:26:26.396] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[22Aug2025 01:26:26.397] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.36 Target: null
-[22Aug2025 01:26:26.397] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[22Aug2025 01:26:26.410] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.16.2 Target: null
-[22Aug2025 01:26:26.410] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[22Aug2025 01:26:26.411] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
-[22Aug2025 01:26:26.417] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[22Aug2025 01:26:26.419] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
-[22Aug2025 01:26:26.423] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.pipez.integration.waila.PluginPipes
-[22Aug2025 01:26:26.423] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
-[22Aug2025 01:26:26.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
-[22Aug2025 01:26:26.425] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[22Aug2025 01:26:26.438] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[22Aug2025 01:26:26.439] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pipez] Starting version check at https://update.maxhenkel.de/forge/pipez
-[22Aug2025 01:26:26.536] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pipez] Found status: AHEAD Current: 1.20.1-1.2.21 Target: null
-[22Aug2025 01:26:26.537] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[22Aug2025 01:26:26.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[22Aug2025 01:26:26.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[22Aug2025 01:26:26.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
-[22Aug2025 01:26:26.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
-[22Aug2025 01:26:26.825] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
-[22Aug2025 01:26:26.826] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[22Aug2025 01:26:27.402] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[22Aug2025 01:26:27.403] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
-[22Aug2025 01:26:27.418] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
-[22Aug2025 01:26:27.418] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
-[22Aug2025 01:26:27.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.4.1 Target: null
-[22Aug2025 01:26:31.917] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22Aug2025 01:26:32.072] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
-epicfight (version 20.9.6 -> MISSING)
-wom (version 20.1.8.5.6 -> MISSING)
-xray (version 1.20.1-2.18.1-build.22 -> MISSING)
-Things may not work well.
-[22Aug2025 01:26:32.127] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Forge Mod Loader detected missing/unknown registrie(s).
-
-There are 3 missing registries in this save.
-If you continue the missing registries will get removed.
-This may cause issues, it is advised that you create a world backup before continuing.
-
-
-[22Aug2025 01:26:32.127] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Missing Registries:
-epicfight:conditions
-epicfight:skill
-epicfight:skill_data_keys
-
-[22Aug2025 01:26:32.211] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:block
-	epicfight:fracture_block: 1189
-
-[22Aug2025 01:26:32.212] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:enchantment
-	wom:invigoration: 39
-
-[22Aug2025 01:26:32.212] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:entity_type
-	epicfight:area_effect_breath: 138
-	epicfight:death_harvest_orb: 142
-	epicfight:dodge_left: 143
-	epicfight:dropped_nether_star: 139
-	epicfight:wither_ghost: 141
-	epicfight:wither_skeleton_minion: 140
-	wom:antitheus_darkness: 145
-	wom:enderblast: 144
-	wom:lupus_rex: 146
-
-[22Aug2025 01:26:32.214] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:item
-	epicfight:bokken: 1507
-	epicfight:diamond_dagger: 1504
-	epicfight:diamond_greatsword: 1487
-	epicfight:diamond_longsword: 1500
-	epicfight:diamond_spear: 1492
-	epicfight:diamond_tachi: 1496
-	epicfight:glove: 1506
-	epicfight:golden_dagger: 1503
-	epicfight:golden_greatsword: 1486
-	epicfight:golden_longsword: 1499
-	epicfight:golden_spear: 1491
-	epicfight:golden_tachi: 1495
-	epicfight:iron_dagger: 1502
-	epicfight:iron_greatsword: 1485
-	epicfight:iron_longsword: 1498
-	epicfight:iron_spear: 1490
-	epicfight:iron_tachi: 1494
-	epicfight:netherite_dagger: 1505
-	epicfight:netherite_greatsword: 1488
-	epicfight:netherite_longsword: 1501
-	epicfight:netherite_spear: 1493
-	epicfight:netherite_tachi: 1497
-	epicfight:skillbook: 1511
-	epicfight:stone_greatsword: 1484
-	epicfight:stone_spear: 1489
-	epicfight:stray_hat: 1508
-	epicfight:stray_pants: 1510
-	epicfight:stray_robe: 1509
-	epicfight:uchigatana: 1482
-	epicfight:uchigatana_sheath: 1483
-	wom:agony: 1512
-	wom:antitheus: 1516
-	wom:demon_seal: 1552
-	wom:diamond_armbracelet: 1545
-	wom:diamond_crown: 1544
-	wom:diamond_greataxe: 1528
-	wom:diamond_legbottomseal: 1547
-	wom:diamond_legtopseal: 1546
-	wom:diamond_staff: 1534
-	wom:emerald_anklebracelet: 1543
-	wom:emerald_chakra: 1541
-	wom:emerald_earrings: 1540
-	wom:emerald_tasset: 1542
-	wom:ender_blaster: 1515
-	wom:eternal_fire_arcane: 1553
-	wom:gesetz: 1520
-	wom:gesetz_handle: 1521
-	wom:golden_chrono: 1550
-	wom:golden_greataxe: 1527
-	wom:golden_kit: 1549
-	wom:golden_mokassin: 1551
-	wom:golden_monocle: 1548
-	wom:golden_staff: 1533
-	wom:herrscher: 1519
-	wom:iron_greataxe: 1526
-	wom:iron_staff: 1532
-	wom:moonless: 1522
-	wom:moonless_handle: 1523
-	wom:netherite_belt: 1538
-	wom:netherite_chains: 1539
-	wom:netherite_greataxe: 1529
-	wom:netherite_manicle: 1537
-	wom:netherite_mask: 1536
-	wom:netherite_staff: 1535
-	wom:ruine: 1514
-	wom:satsujin: 1517
-	wom:satsujin_sheath: 1518
-	wom:solar: 1524
-	wom:solar_obscuridad: 1525
-	wom:stone_staff: 1531
-	wom:tormented_mind: 1513
-	wom:wooden_staff: 1530
-
-[22Aug2025 01:26:32.217] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:mob_effect
-	epicfight:instability: 38
-	epicfight:stun_immunity: 37
-
-[22Aug2025 01:26:32.220] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:painting_variant
-	epicfight:epicfight_logo: 31
-
-[22Aug2025 01:26:32.221] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:sound_event
-	epicfight:entity.enderdragon.dragon_breath: 1492
-	epicfight:entity.enderdragon.dragon_breath_finale: 1493
-	epicfight:entity.enderdragon.dragon_crystal_link: 1494
-	epicfight:entity.hit.blade: 1480
-	epicfight:entity.hit.blade_rush_last: 1485
-	epicfight:entity.hit.blunt: 1481
-	epicfight:entity.hit.blunt_hard: 1482
-	epicfight:entity.hit.clash: 1483
-	epicfight:entity.hit.eviscerate: 1484
-	epicfight:entity.weapon.sword_in: 1486
-	epicfight:entity.weapon.whoosh: 1487
-	epicfight:entity.weapon.whoosh_hard: 1488
-	epicfight:entity.weapon.whoosh_rod: 1491
-	epicfight:entity.weapon.whoosh_sharp: 1490
-	epicfight:entity.weapon.whoosh_small: 1489
-	epicfight:entity.wither.wither_spell_armor: 1495
-	epicfight:sfx.big_entity_move: 1505
-	epicfight:sfx.buzz: 1497
-	epicfight:sfx.entity_move: 1504
-	epicfight:sfx.ground_slam: 1500
-	epicfight:sfx.ground_slam_small: 1499
-	epicfight:sfx.laser_blast: 1498
-	epicfight:sfx.nether_star_glitter: 1503
-	epicfight:sfx.neutralize_bosses: 1501
-	epicfight:sfx.neutralize_mobs: 1502
-	epicfight:sfx.no_sound: 1496
-	epicfight:skill.forbidden_strength: 1506
-	epicfight:skill.rocket_jump: 1507
-	epicfight:skill.roll: 1508
-	wom:entity.lupus_aureum_howl: 1514
-	wom:sfx.antitheus_blackhole: 1510
-	wom:sfx.antitheus_blackhole_chargeup: 1511
-	wom:sfx.enderblaster_reload: 1509
-	wom:sfx.satsujin_gesshoku: 1515
-	wom:sfx.solar_hit: 1512
-	wom:sfx.time_travel: 1513
-
-[22Aug2025 01:26:32.224] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Forge Mod Loader detected missing registry entries.
-
-There are 122 missing entries in this save.
-If you continue the missing entries will get removed.
-A world backup will be automatically created in your saves directory.
-
-
-[22Aug2025 01:26:32.225] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Missing minecraft:sound_event:
-    epicfight:entity.enderdragon.dragon_breath
-    epicfight:entity.enderdragon.dragon_breath_finale
-    epicfight:entity.enderdragon.dragon_crystal_link
-    epicfight:entity.hit.blade
-    epicfight:entity.hit.blade_rush_last
-    epicfight:entity.hit.blunt
-    epicfight:entity.hit.blunt_hard
-    epicfight:entity.hit.clash
-    epicfight:entity.hit.eviscerate
-    epicfight:entity.weapon.sword_in
-    epicfight:entity.weapon.whoosh
-    epicfight:entity.weapon.whoosh_hard
-    epicfight:entity.weapon.whoosh_rod
-    epicfight:entity.weapon.whoosh_sharp
-    epicfight:entity.weapon.whoosh_small
-    epicfight:entity.wither.wither_spell_armor
-    epicfight:sfx.big_entity_move
-    epicfight:sfx.buzz
-    epicfight:sfx.entity_move
-    epicfight:sfx.ground_slam
-    epicfight:sfx.ground_slam_small
-    epicfight:sfx.laser_blast
-    epicfight:sfx.nether_star_glitter
-    epicfight:sfx.neutralize_bosses
-    epicfight:sfx.neutralize_mobs
-    epicfight:sfx.no_sound
-    epicfight:skill.forbidden_strength
-    epicfight:skill.rocket_jump
-    epicfight:skill.roll
-    wom:entity.lupus_aureum_howl
-    wom:sfx.antitheus_blackhole
-    wom:sfx.antitheus_blackhole_chargeup
-    wom:sfx.enderblaster_reload
-    wom:sfx.satsujin_gesshoku
-    wom:sfx.solar_hit
-    wom:sfx.time_travel
-
-Missing minecraft:item:
-    epicfight:bokken
-    epicfight:diamond_dagger
-    epicfight:diamond_greatsword
-    epicfight:diamond_longsword
-    epicfight:diamond_spear
-    epicfight:diamond_tachi
-    epicfight:glove
-    epicfight:golden_dagger
-    epicfight:golden_greatsword
-    epicfight:golden_longsword
-    epicfight:golden_spear
-    epicfight:golden_tachi
-    epicfight:iron_dagger
-    epicfight:iron_greatsword
-    epicfight:iron_longsword
-    epicfight:iron_spear
-    epicfight:iron_tachi
-    epicfight:netherite_dagger
-    epicfight:netherite_greatsword
-    epicfight:netherite_longsword
-    epicfight:netherite_spear
-    epicfight:netherite_tachi
-    epicfight:skillbook
-    epicfight:stone_greatsword
-    epicfight:stone_spear
-    epicfight:stray_hat
-    epicfight:stray_pants
-    epicfight:stray_robe
-    epicfight:uchigatana
-    epicfight:uchigatana_sheath
-    wom:agony
-    wom:antitheus
-    wom:demon_seal
-    wom:diamond_armbracelet
-    wom:diamond_crown
-    wom:diamond_greataxe
-    wom:diamond_legbottomseal
-    wom:diamond_legtopseal
-    wom:diamond_staff
-    wom:emerald_anklebracelet
-    wom:emerald_chakra
-    wom:emerald_earrings
-    wom:emerald_tasset
-    wom:ender_blaster
-    wom:eternal_fire_arcane
-    wom:gesetz
-    wom:gesetz_handle
-    wom:golden_chrono
-    wom:golden_greataxe
-    wom:golden_kit
-    wom:golden_mokassin
-    wom:golden_monocle
-    wom:golden_staff
-    wom:herrscher
-    wom:iron_greataxe
-    wom:iron_staff
-    wom:moonless
-    wom:moonless_handle
-    wom:netherite_belt
-    wom:netherite_chains
-    wom:netherite_greataxe
-    wom:netherite_manicle
-    wom:netherite_mask
-    wom:netherite_staff
-    wom:ruine
-    wom:satsujin
-    wom:satsujin_sheath
-    wom:solar
-    wom:solar_obscuridad
-    wom:stone_staff
-    wom:tormented_mind
-    wom:wooden_staff
-
-Missing minecraft:painting_variant:
-    epicfight:epicfight_logo
-
-Missing minecraft:block:
-    epicfight:fracture_block
-
-Missing minecraft:mob_effect:
-    epicfight:instability
-    epicfight:stun_immunity
-
-Missing minecraft:enchantment:
-    wom:invigoration
-
-Missing minecraft:entity_type:
-    epicfight:area_effect_breath
-    epicfight:death_harvest_orb
-    epicfight:dodge_left
-    epicfight:dropped_nether_star
-    epicfight:wither_ghost
-    epicfight:wither_skeleton_minion
-    wom:antitheus_darkness
-    wom:enderblast
-    wom:lupus_rex
-
-
-[22Aug2025 01:26:32.229] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: There are unidentified mappings in this world - we are going to attempt to process anyway
-[22Aug2025 01:26:35.612] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Z/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23231!/assets/.mcassetsroot' uses unexpected schema
-[22Aug2025 01:26:35.612] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Z/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23231!/data/.mcassetsroot' uses unexpected schema
-[22Aug2025 01:26:35.742] [main/INFO] [com.simibubi.create.Create/]: Created 260 recipes which will be injected into the game
-[22Aug2025 01:26:35.750] [main/INFO] [com.simibubi.create.Create/]: Created 22 tags which will be injected into the game
-[22Aug2025 01:26:40.155] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/Z/servidor_minecraft/tacz
-[22Aug2025 01:26:40.157] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
-[22Aug2025 01:26:40.157] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
-[22Aug2025 01:26:40.252] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:xray
-[22Aug2025 01:26:40.252] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:epicfight
-[22Aug2025 01:26:40.252] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:wom
-[22Aug2025 01:26:40.327] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Tasks finished in: 11 ms
-[22Aug2025 01:26:40.328] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack (immersive_weathering) in: 12 ms (multithreaded)
-[22Aug2025 01:26:40.328] [main/INFO] [Moonlight/]: Generated runtime resources for 1 packs in a total of: 13 ms
-[22Aug2025 01:26:42.974] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag create_factory:sweet_berries_jam as it is missing following references: create_factory:sweet_berries_jam_flowing (from create_factory-0.4b-1.20.1.jar)
-[22Aug2025 01:26:43.101] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag apocalypsenow:armor/cloth as it is missing following references: apocalypsenow:nurse_helmet (from apocalypsenow-3.0.5-forge-1.20.1.jar)
-[22Aug2025 01:26:43.714] [Worker-Main-2/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:large_gunpowder_recipe_2 from createtaczauto:recipes/large_gunpowder_recipe_2.json
+[22Aug2025 02:28:48.518] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[22Aug2025 02:28:50.093] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
+[22Aug2025 02:28:50.415] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
+[22Aug2025 02:28:51.053] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[22Aug2025 02:28:51.086] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.6 initializing! Commit hash: 338bfa0aec952fa51656e8f61bd621ca9b3b2e00
+[22Aug2025 02:28:52.179] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
+[22Aug2025 02:28:52.623] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[22Aug2025 02:28:52.734] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[22Aug2025 02:28:52.734] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[22Aug2025 02:28:53.012] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[22Aug2025 02:28:53.247] [modloading-worker-0/INFO] [uncraftingtable76/]: [uncraftingtable76] Initializing...
+[22Aug2025 02:28:53.283] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[22Aug2025 02:28:53.284] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id uncraftingtable76:network_ctrl
+[22Aug2025 02:28:54.085] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@53dfb0a8 has been registered twice for the same name treechop:chop_wood.
+[22Aug2025 02:29:05.441] [main/INFO] [Moonlight/]: Initialized block sets in 13ms
+[22Aug2025 02:29:05.488] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_villager] was not realized!
+[22Aug2025 02:29:05.488] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:grim_reaper] was not realized!
+[22Aug2025 02:29:05.488] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_zombie_villager] was not realized!
+[22Aug2025 02:29:05.488] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_zombie_villager] was not realized!
+[22Aug2025 02:29:05.489] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_villager] was not realized!
+[22Aug2025 02:29:05.489] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_villager] was not realized!
+[22Aug2025 02:29:05.489] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:grim_reaper] was not realized!
+[22Aug2025 02:29:05.489] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_zombie_villager] was not realized!
+[22Aug2025 02:29:05.489] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_zombie_villager] was not realized!
+[22Aug2025 02:29:05.489] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_villager] was not realized!
+[22Aug2025 02:29:06.338] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.339] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.339] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.339] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.339] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.339] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.340] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.340] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[22Aug2025 02:29:06.342] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.342] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.343] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.343] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.343] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.344] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.344] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.344] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.345] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.345] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.345] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.346] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[22Aug2025 02:29:06.346] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.352] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.352] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[22Aug2025 02:29:06.353] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.353] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[22Aug2025 02:29:06.354] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[22Aug2025 02:29:06.354] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.355] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.355] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.355] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.356] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.359] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.365] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.365] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.367] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.368] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.368] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Aug2025 02:29:06.369] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[22Aug2025 02:29:06.486] [modloading-worker-0/INFO] [com.muhammedesadcomert.protectmobsfromdaylight.forge.ProtectMobsFromDayLight/]: HELLO FROM COMMON SETUP
+[22Aug2025 02:29:06.486] [modloading-worker-0/INFO] [com.muhammedesadcomert.protectmobsfromdaylight.forge.ProtectMobsFromDayLight/]: DIRT BLOCK >> minecraft:dirt
+[22Aug2025 02:29:06.495] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[22Aug2025 02:29:06.523] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[22Aug2025 02:29:06.616] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[22Aug2025 02:29:06.624] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[22Aug2025 02:29:06.625] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[22Aug2025 02:29:06.625] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[22Aug2025 02:29:06.648] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.16 initializing...
+[22Aug2025 02:29:06.705] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[22Aug2025 02:29:06.755] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[22Aug2025 02:29:06.801] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[22Aug2025 02:29:06.804] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[22Aug2025 02:29:06.824] [modloading-worker-0/INFO] [net.antrolgaming.ags_daycounter.AgsDayCounterMod/]: [Day Counter] Loading config file...
+[22Aug2025 02:29:06.826] [modloading-worker-0/INFO] [net.antrolgaming.ags_daycounter.AgsDayCounterMod/]: [Day Counter] Config file successfuly loaded!
+[22Aug2025 02:29:06.840] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[22Aug2025 02:29:06.908] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.40 Target: null
+[22Aug2025 02:29:06.910] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[22Aug2025 02:29:06.962] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[22Aug2025 02:29:06.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[22Aug2025 02:29:07.327] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[22Aug2025 02:29:07.327] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[22Aug2025 02:29:07.327] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[22Aug2025 02:29:07.327] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[22Aug2025 02:29:07.327] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[22Aug2025 02:29:07.328] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[22Aug2025 02:29:07.328] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[22Aug2025 02:29:07.328] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[22Aug2025 02:29:07.328] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[22Aug2025 02:29:07.346] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[22Aug2025 02:29:07.347] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[22Aug2025 02:29:07.347] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[22Aug2025 02:29:07.347] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[22Aug2025 02:29:07.349] [main/INFO] [firstaid/]: Initializing PlayerRevive Compatibility...
+[22Aug2025 02:29:07.399] [main/INFO] [Moonlight/]: Initialized color sets in 41ms
+[22Aug2025 02:29:07.529] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[22Aug2025 02:29:07.531] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[22Aug2025 02:29:07.647] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
+[22Aug2025 02:29:07.655] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[22Aug2025 02:29:07.657] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[22Aug2025 02:29:07.668] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[22Aug2025 02:29:07.672] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[22Aug2025 02:29:07.674] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
+[22Aug2025 02:29:07.676] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.pipez.integration.waila.PluginPipes
+[22Aug2025 02:29:07.678] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[22Aug2025 02:29:11.294] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.21 Target: null
+[22Aug2025 02:29:11.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[22Aug2025 02:29:11.399] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.36 Target: null
+[22Aug2025 02:29:11.400] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[22Aug2025 02:29:11.424] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.16.2 Target: null
+[22Aug2025 02:29:11.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
+[22Aug2025 02:29:11.471] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
+[22Aug2025 02:29:11.474] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
+[22Aug2025 02:29:11.486] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[22Aug2025 02:29:11.487] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pipez] Starting version check at https://update.maxhenkel.de/forge/pipez
+[22Aug2025 02:29:11.584] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pipez] Found status: AHEAD Current: 1.20.1-1.2.21 Target: null
+[22Aug2025 02:29:11.584] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[22Aug2025 02:29:11.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[22Aug2025 02:29:11.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[22Aug2025 02:29:11.775] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[22Aug2025 02:29:11.776] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[22Aug2025 02:29:11.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
+[22Aug2025 02:29:11.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Aug2025 02:29:12.063] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[22Aug2025 02:29:12.063] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[22Aug2025 02:29:12.075] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
+[22Aug2025 02:29:12.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
+[22Aug2025 02:29:12.344] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.4.1 Target: null
+[22Aug2025 02:29:13.033] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22Aug2025 02:29:16.692] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Z/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23231!/assets/.mcassetsroot' uses unexpected schema
+[22Aug2025 02:29:16.692] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Z/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23231!/data/.mcassetsroot' uses unexpected schema
+[22Aug2025 02:29:16.850] [main/INFO] [com.simibubi.create.Create/]: Created 260 recipes which will be injected into the game
+[22Aug2025 02:29:16.856] [main/INFO] [com.simibubi.create.Create/]: Created 22 tags which will be injected into the game
+[22Aug2025 02:29:20.165] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/Z/servidor_minecraft/tacz
+[22Aug2025 02:29:20.167] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[22Aug2025 02:29:20.167] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[22Aug2025 02:29:20.297] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Tasks finished in: 11 ms
+[22Aug2025 02:29:20.298] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack (immersive_weathering) in: 11 ms (multithreaded)
+[22Aug2025 02:29:20.298] [main/INFO] [Moonlight/]: Generated runtime resources for 1 packs in a total of: 12 ms
+[22Aug2025 02:29:22.409] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag create_factory:sweet_berries_jam as it is missing following references: create_factory:sweet_berries_jam_flowing (from create_factory-0.4b-1.20.1.jar)
+[22Aug2025 02:29:22.642] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag apocalypsenow:armor/cloth as it is missing following references: apocalypsenow:nurse_helmet (from apocalypsenow-3.0.5-forge-1.20.1.jar)
+[22Aug2025 02:29:23.310] [Worker-Main-3/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:large_gunpowder_recipe_2 from createtaczauto:recipes/large_gunpowder_recipe_2.json
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Expected name at line 25 column 4 path $.result.item
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
@@ -579,7 +278,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	... 13 more
-[22Aug2025 01:26:43.734] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/bastion_other_bc
+[22Aug2025 02:29:23.402] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/bastion_other_bc
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'brewinandchewin:red_rum'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -631,7 +330,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[22Aug2025 01:26:43.795] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/bastion_other_fr
+[22Aug2025 02:29:23.488] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/bastion_other_fr
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'farmersrespite:rose_hip_tea'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -683,7 +382,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[22Aug2025 01:26:43.811] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/abandoned_mineshaft_fr
+[22Aug2025 02:29:23.508] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/abandoned_mineshaft_fr
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'farmersrespite:yellow_tea'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -735,7 +434,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[22Aug2025 01:26:43.818] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/abandoned_mineshaft_bc
+[22Aug2025 02:29:23.520] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/abandoned_mineshaft_bc
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'brewinandchewin:beer'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -787,7 +486,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[22Aug2025 01:26:43.823] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/nether_bridge_fr
+[22Aug2025 02:29:23.527] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/nether_bridge_fr
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'farmersrespite:rose_hip_tea'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -839,7 +538,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[22Aug2025 01:26:43.842] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/nether_bridge_bc
+[22Aug2025 02:29:23.544] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/nether_bridge_bc
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'brewinandchewin:red_rum'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -891,7 +590,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[22Aug2025 01:26:43.945] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/shipwreck_supply_bc
+[22Aug2025 02:29:23.643] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/shipwreck_supply_bc
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'brewinandchewin:mead'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -943,7 +642,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[22Aug2025 01:26:43.951] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/shipwreck_supply_fr
+[22Aug2025 02:29:23.649] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/shipwreck_supply_fr
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'farmersrespite:black_tea'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -995,7 +694,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[22Aug2025 01:26:43.965] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/simple_dungeon_bc
+[22Aug2025 02:29:23.667] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/simple_dungeon_bc
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'brewinandchewin:vodka'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1047,7 +746,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[22Aug2025 01:26:43.973] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/simple_dungeon_fr
+[22Aug2025 02:29:23.681] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thirst:chests/simple_dungeon_fr
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'farmersrespite:dandelion_tea'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1099,7 +798,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[22Aug2025 01:26:44.021] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/villagetaigahouse
+[22Aug2025 02:29:23.758] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/villagetaigahouse
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'apocalypsenow:officer_chestplate'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1151,7 +850,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[22Aug2025 01:26:44.061] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:zombiekit:grant_book_on_first_join
+[22Aug2025 02:29:23.823] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:zombiekit:grant_book_on_first_join
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1203,8 +902,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[22Aug2025 01:26:44.255] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[22Aug2025 01:26:44.396] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:combataxe
+[22Aug2025 02:29:24.040] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[22Aug2025 02:29:24.172] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:combataxe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1233,7 +932,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Aug2025 01:26:44.481] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulemachete
+[22Aug2025 02:29:24.263] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulemachete
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1262,7 +961,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Aug2025 01:26:44.517] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemoduleironbat
+[22Aug2025 02:29:24.303] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemoduleironbat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1291,8 +990,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Aug2025 01:26:44.535] [main/WARN] [com.simibubi.create.Create/]: Your custom create:cutting recipe (createtaczauto:gunpowder_recipe) has more item outputs (6) than supported (4).
-[22Aug2025 01:26:44.572] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalmachete
+[22Aug2025 02:29:24.332] [main/WARN] [com.simibubi.create.Create/]: Your custom create:cutting recipe (createtaczauto:gunpowder_recipe) has more item outputs (6) than supported (4).
+[22Aug2025 02:29:24.392] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalmachete
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1321,7 +1020,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Aug2025 01:26:44.596] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulekatana
+[22Aug2025 02:29:24.432] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulekatana
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1350,7 +1049,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Aug2025 01:26:44.656] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalclub
+[22Aug2025 02:29:24.507] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalclub
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1379,7 +1078,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Aug2025 01:26:44.660] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulecombataxe
+[22Aug2025 02:29:24.512] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulecombataxe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1408,7 +1107,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Aug2025 01:26:44.681] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:rockeyhelmetrecipe
+[22Aug2025 02:29:24.541] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:rockeyhelmetrecipe
 com.google.gson.JsonSyntaxException: Unknown item 'apocalypsenow:officer_chestplate'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23236!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23236!/:?]
@@ -1441,7 +1140,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'apocalypsenow:officer_chestpl
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Aug2025 01:26:44.699] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalkatana
+[22Aug2025 02:29:24.563] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalkatana
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1470,7 +1169,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Aug2025 01:26:44.714] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricaltaticalmace
+[22Aug2025 02:29:24.584] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricaltaticalmace
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1499,7 +1198,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Aug2025 01:26:44.718] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalbaseballbat
+[22Aug2025 02:29:24.586] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalbaseballbat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1528,359 +1227,77 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Aug2025 01:26:44.829] [main/WARN] [com.simibubi.create.Create/]: Your custom create:cutting recipe (createtaczauto:tiny_gunpowder_pile_recipe) has more item outputs (6) than supported (4).
-[22Aug2025 01:26:44.843] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 53 recipes
-[22Aug2025 01:26:44.846] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
-[22Aug2025 01:26:45.205] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement zombiesmore:kaboom: Task Advancement{parentId=zombiesmore:kaboom, display=net.minecraft.advancements.DisplayInfo@631afe9c, rewards=AdvancementRewards{experience=5, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@12b94c07}, criteria={kaboom_0=net.minecraft.advancements.Criterion@5e4bed0}, requirements=[[kaboom_0]], sends_telemetry_event=false}
-[22Aug2025 01:26:45.208] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4279 advancements
-[22Aug2025 01:26:45.413] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[22Aug2025 01:26:45.421] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[22Aug2025 01:26:45.422] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[22Aug2025 01:26:45.456] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_shipwreck_supply - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[22Aug2025 01:26:45.456] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_shipwreck_supply_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[22Aug2025 01:26:45.457] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_shipwreck_supply_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[22Aug2025 01:26:45.457] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_abandoned_mineshaft - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[22Aug2025 01:26:45.457] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_abandoned_mineshaft_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[22Aug2025 01:26:45.457] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_abandoned_mineshaft_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[22Aug2025 01:26:45.458] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_simple_dungeon - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[22Aug2025 01:26:45.458] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_simple_dungeon_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[22Aug2025 01:26:45.458] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_simple_dungeon_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[22Aug2025 01:26:45.458] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_nether_bridge - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[22Aug2025 01:26:45.458] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_nether_bridge_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[22Aug2025 01:26:45.458] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_nether_bridge_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[22Aug2025 01:26:45.458] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_bastion_other - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[22Aug2025 01:26:45.458] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_bastion_other_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[22Aug2025 01:26:45.459] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_bastion_other_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
-[22Aug2025 01:26:48.652] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 78 block growths configurations
-[22Aug2025 01:26:48.657] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 14 liquid generators configurations
-[22Aug2025 01:26:48.671] [main/INFO] [firstaid/registry]: Built local FirstAid registry lookups
-[22Aug2025 01:26:49.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[22Aug2025 01:26:49.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[22Aug2025 01:26:49.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[22Aug2025 01:26:49.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[22Aug2025 01:26:49.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[22Aug2025 01:26:49.340] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[22Aug2025 01:26:49.412] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22Aug2025 01:26:49.412] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[22Aug2025 01:26:49.413] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22Aug2025 01:26:49.413] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[22Aug2025 01:26:49.449] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
-[22Aug2025 01:26:49.452] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for hangglider
-[22Aug2025 01:26:49.454] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for hangglider
-[22Aug2025 01:26:49.477] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
-[22Aug2025 01:26:49.479] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[22Aug2025 01:26:49.481] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[22Aug2025 01:26:49.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[22Aug2025 01:26:53.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[22Aug2025 01:26:58.110] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2025 01:26:58.112] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2025 01:26:58.112] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2025 01:26:58.113] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2025 01:26:58.113] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2025 01:26:58.114] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2025 01:26:58.114] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2025 01:26:58.115] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2025 01:26:58.117] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2025 01:26:58.118] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2025 01:26:58.119] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2025 01:26:58.566] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[22Aug2025 01:26:59.068] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
-[22Aug2025 01:26:59.453] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6388 ms
-[22Aug2025 01:26:59.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.029s)! For help, type "help"
-[22Aug2025 01:26:59.545] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[22Aug2025 01:26:59.545] [Server thread/INFO] [com.muhammedesadcomert.protectmobsfromdaylight.forge.ProtectMobsFromDayLight/]: HELLO from server starting
-[22Aug2025 01:26:59.571] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[22Aug2025 01:26:59.583] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'password-by.gl.at.ply.gg:5056'
-[22Aug2025 01:26:59.584] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 5056
-[22Aug2025 01:31:57.408] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what wom:iron_staff is
-[22Aug2025 01:31:57.408] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what wom:iron_staff is
-[22Aug2025 01:31:57.408] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what wom:stone_staff is
-[22Aug2025 01:31:57.409] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what wom:diamond_staff is
-[22Aug2025 01:31:57.409] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what wom:wooden_staff is
-[22Aug2025 01:31:57.410] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what wom:ender_blaster is
-[22Aug2025 01:31:57.410] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what wom:diamond_legbottomseal is
-[22Aug2025 01:31:57.410] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what epicfight:skillbook is
-[22Aug2025 01:31:57.410] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what wom:wooden_staff is
-[22Aug2025 01:31:57.411] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what wom:ender_blaster is
-[22Aug2025 01:31:57.412] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what epicfight:skillbook is
-[22Aug2025 01:31:57.412] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what epicfight:stone_greatsword is
-[22Aug2025 01:31:57.412] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what wom:diamond_legbottomseal is
-[22Aug2025 01:31:57.414] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what epicfight:stone_greatsword is
-[22Aug2025 01:31:57.414] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what wom:iron_staff is
-[22Aug2025 01:31:57.414] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what wom:ender_blaster is
-[22Aug2025 01:31:57.415] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what wom:stone_staff is
-[22Aug2025 01:31:57.415] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what wom:tormented_mind is
-[22Aug2025 01:31:57.415] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what epicfight:skillbook is
-[22Aug2025 01:31:57.415] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7.json: Don't know what wom:diamond_staff is
-[22Aug2025 01:31:57.496] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:staminar'
-[22Aug2025 01:31:57.496] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:31:57.497] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:offhand_impact'
-[22Aug2025 01:31:57.497] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:offhand_armor_negation'
-[22Aug2025 01:31:57.497] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:31:57.497] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
-[22Aug2025 01:31:57.497] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:offhand_attack_speed'
-[22Aug2025 01:31:57.497] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
-[22Aug2025 01:31:57.498] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
-[22Aug2025 01:31:57.498] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:offhand_max_strikes'
-[22Aug2025 01:31:57.498] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stamina_regen'
-[22Aug2025 01:31:57.500] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: wom:stone_staff removed now.
-[22Aug2025 01:31:57.500] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: wom:iron_staff removed now.
-[22Aug2025 01:31:57.501] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: wom:diamond_staff removed now.
-[22Aug2025 01:31:57.501] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: wom:wooden_staff removed now.
-[22Aug2025 01:31:57.502] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: wom:iron_staff removed now.
-[22Aug2025 01:31:57.503] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: wom:diamond_staff removed now.
-[22Aug2025 01:31:57.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:59441] logged in with entity id 159 at (-838.8826827034173, 88.0, -1508.810052648632)
-[22Aug2025 01:31:57.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
-[22Aug2025 01:31:57.769] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
-[22Aug2025 01:32:01.227] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
-[22Aug2025 01:32:01.229] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
-[22Aug2025 01:32:01.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3770ms or 75 ticks behind
-[22Aug2025 01:32:01.368] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.370] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.370] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.372] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.372] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.373] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.377] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.382] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.382] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.409] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.409] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.423] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.423] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.440] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.442] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.443] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.443] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.449] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.449] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.675] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.675] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.676] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.681] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.682] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.683] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.683] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.684] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.684] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.685] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.685] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.691] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.692] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
-[22Aug2025 01:32:01.692] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.692] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
-[22Aug2025 01:32:01.696] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.696] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.697] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.702] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.703] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.704] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.742] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.742] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.743] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.744] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.745] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.746] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:01.860] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:01.861] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:02.009] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.011] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.027] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.030] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:02.031] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.240] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.242] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:02.270] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.271] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:02.272] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.272] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:02.273] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.282] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.282] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:02.283] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.283] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:02.283] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
-[22Aug2025 01:32:02.284] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.286] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.290] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.291] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:02.378] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.379] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:02.380] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.381] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.381] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
-[22Aug2025 01:32:02.381] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:02.382] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
-[22Aug2025 01:32:02.382] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
-[22Aug2025 01:32:02.382] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.382] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:02.382] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
-[22Aug2025 01:32:02.383] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
-[22Aug2025 01:32:02.383] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.384] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:02.384] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.385] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:02.446] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.446] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:02.447] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
-[22Aug2025 01:32:02.447] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
-[22Aug2025 01:32:02.512] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.776] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.783] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.784] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:02.861] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.862] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:02.864] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.865] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.868] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.870] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:02.870] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:02.932] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:03.076] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:03.077] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:03.163] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:03.164] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:03.167] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:03.173] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:03.182] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:03.301] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:03.302] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:03.860] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:03.860] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:04.406] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:04.439] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:04.440] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:04.441] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:04.441] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
-[22Aug2025 01:32:04.441] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:04.441] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
-[22Aug2025 01:32:04.524] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:04.524] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:05.138] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:05.139] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:05.619] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:05.620] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:05.622] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:05.623] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:05.625] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:05.625] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:05.626] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:05.626] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:06.669] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:06.669] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:07.379] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:07.379] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:07.832] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:07.832] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:07.980] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:08.040] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:08.040] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:08.041] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:08.041] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:08.721] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:32:08.721] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:32:09.229] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
-[22Aug2025 01:32:10.225] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
-[22Aug2025 01:32:10.229] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
-[22Aug2025 01:32:27.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Timed out
-[22Aug2025 01:32:27.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[22Aug2025 01:32:27.650] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
-[22Aug2025 01:33:07.187] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a2894c1[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:44371) lost connection: Disconnected
-[22Aug2025 01:33:17.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:42103] logged in with entity id 450 at (-836.8570503236087, 88.0, -1506.866271862017)
-[22Aug2025 01:33:17.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
-[22Aug2025 01:33:17.360] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
-[22Aug2025 01:33:18.394] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
-[22Aug2025 01:33:18.395] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
-[22Aug2025 01:33:26.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
-[22Aug2025 01:33:27.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
-[22Aug2025 01:33:27.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
-[22Aug2025 01:33:47.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Timed out
-[22Aug2025 01:33:47.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[22Aug2025 01:33:47.348] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
-[22Aug2025 01:34:37.833] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a1071b5[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:36719) lost connection: Disconnected
-[22Aug2025 01:35:10.783] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@532454e0[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:51145) lost connection: Disconnected
-[22Aug2025 01:35:51.483] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12c58d37[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:46957) lost connection: Disconnected
-[22Aug2025 01:36:13.033] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a416a4a[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:37389) lost connection: Disconnected
-[22Aug2025 01:38:57.198] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:57021] logged in with entity id 751 at (-836.8570503236087, 88.0, -1506.866271862017)
-[22Aug2025 01:38:57.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
-[22Aug2025 01:38:57.253] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
-[22Aug2025 01:38:58.095] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
-[22Aug2025 01:38:58.095] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
-[22Aug2025 01:39:07.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
-[22Aug2025 01:39:08.811] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
-[22Aug2025 01:39:08.812] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
-[22Aug2025 01:39:13.426] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:40:20.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
-[22Aug2025 01:40:48.056] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
-[22Aug2025 01:40:48.056] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
-[22Aug2025 01:40:59.652] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.653] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.653] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.653] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.653] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.653] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.654] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.654] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[22Aug2025 01:40:59.654] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.654] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.654] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.654] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.654] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.654] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.655] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.655] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.655] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.655] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.655] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.655] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[22Aug2025 01:40:59.655] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.655] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.656] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[22Aug2025 01:40:59.656] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.656] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[22Aug2025 01:40:59.656] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[22Aug2025 01:40:59.656] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.656] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.657] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.657] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.657] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.657] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.657] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.657] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.657] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.658] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:40:59.658] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[22Aug2025 01:57:07.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Enchanter]
-[22Aug2025 01:59:04.042] [Server thread/INFO] [Scaling Health/]: Blight Walker has died
-[22Aug2025 02:00:14.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Ice Bucket Challenge]
-[22Aug2025 02:05:49.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [We Need to Go Deeper]
-[22Aug2025 02:05:49.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2881ms or 57 ticks behind
-[22Aug2025 02:06:11.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [The survivor]
-[22Aug2025 02:12:17.541] [Server thread/INFO] [Scaling Health/]: Blight Military has died
-[22Aug2025 02:18:42.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Bigger is better]
-[22Aug2025 02:19:00.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Gucci backpack]
-[22Aug2025 02:20:48.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Gotta have that bling]
-[22Aug2025 02:22:49.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[22Aug2025 02:23:22.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
-[22Aug2025 02:24:55.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[22Aug2025 02:25:27.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
-[22Aug2025 02:25:57.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[22Aug2025 02:27:29.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
-[22Aug2025 02:27:29.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[22Aug2025 02:27:29.144] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
-[22Aug2025 02:27:34.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[22Aug2025 02:27:35.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[22Aug2025 02:27:35.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[22Aug2025 02:27:35.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[22Aug2025 02:27:35.120] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[22Aug2025 02:27:35.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22Aug2025 02:27:36.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22Aug2025 02:27:36.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22Aug2025 02:27:36.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
-[22Aug2025 02:27:36.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
-[22Aug2025 02:27:36.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22Aug2025 02:27:36.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22Aug2025 02:27:36.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22Aug2025 02:27:36.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
-[22Aug2025 02:27:36.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
-[22Aug2025 02:27:36.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Aug2025 02:29:24.677] [main/WARN] [com.simibubi.create.Create/]: Your custom create:cutting recipe (createtaczauto:tiny_gunpowder_pile_recipe) has more item outputs (6) than supported (4).
+[22Aug2025 02:29:24.698] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 53 recipes
+[22Aug2025 02:29:24.701] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
+[22Aug2025 02:29:24.930] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement zombiesmore:kaboom: Task Advancement{parentId=zombiesmore:kaboom, display=net.minecraft.advancements.DisplayInfo@4b0e5f65, rewards=AdvancementRewards{experience=5, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@677a61d3}, criteria={kaboom_0=net.minecraft.advancements.Criterion@218a9283}, requirements=[[kaboom_0]], sends_telemetry_event=false}
+[22Aug2025 02:29:24.930] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4279 advancements
+[22Aug2025 02:29:25.052] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[22Aug2025 02:29:25.061] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[22Aug2025 02:29:25.062] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[22Aug2025 02:29:25.095] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_shipwreck_supply - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[22Aug2025 02:29:25.096] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_shipwreck_supply_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[22Aug2025 02:29:25.096] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_shipwreck_supply_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[22Aug2025 02:29:25.096] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_abandoned_mineshaft - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[22Aug2025 02:29:25.097] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_abandoned_mineshaft_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[22Aug2025 02:29:25.097] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_abandoned_mineshaft_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[22Aug2025 02:29:25.097] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_simple_dungeon - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[22Aug2025 02:29:25.097] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_simple_dungeon_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[22Aug2025 02:29:25.098] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_simple_dungeon_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[22Aug2025 02:29:25.098] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_nether_bridge - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[22Aug2025 02:29:25.098] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_nether_bridge_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[22Aug2025 02:29:25.098] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_nether_bridge_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[22Aug2025 02:29:25.098] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_bastion_other - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[22Aug2025 02:29:25.099] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_bastion_other_fr - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[22Aug2025 02:29:25.099] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id thirst:add_loot_bastion_other_bc - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: thirst:add_loot_table
+[22Aug2025 02:29:28.544] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 78 block growths configurations
+[22Aug2025 02:29:28.552] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 14 liquid generators configurations
+[22Aug2025 02:29:28.575] [main/INFO] [firstaid/registry]: Built local FirstAid registry lookups
+[22Aug2025 02:29:29.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[22Aug2025 02:29:29.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Aug2025 02:29:29.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Aug2025 02:29:29.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Aug2025 02:29:29.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22Aug2025 02:29:29.176] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[22Aug2025 02:29:29.244] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22Aug2025 02:29:29.245] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22Aug2025 02:29:29.245] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22Aug2025 02:29:29.245] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22Aug2025 02:29:29.280] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
+[22Aug2025 02:29:29.281] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[22Aug2025 02:29:29.286] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[22Aug2025 02:29:29.312] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[22Aug2025 02:29:29.314] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[22Aug2025 02:29:29.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22Aug2025 02:29:34.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22Aug2025 02:29:37.695] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Aug2025 02:29:37.695] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Aug2025 02:29:37.696] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Aug2025 02:29:37.697] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Aug2025 02:29:37.698] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Aug2025 02:29:37.698] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Aug2025 02:29:37.859] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Aug2025 02:29:38.362] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
+[22Aug2025 02:29:38.921] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 80%
+[22Aug2025 02:29:39.159] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4301 ms
+[22Aug2025 02:29:39.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.902s)! For help, type "help"
+[22Aug2025 02:29:39.209] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22Aug2025 02:29:39.210] [Server thread/INFO] [com.muhammedesadcomert.protectmobsfromdaylight.forge.ProtectMobsFromDayLight/]: HELLO from server starting
+[22Aug2025 02:29:39.230] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[22Aug2025 02:29:39.240] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'password-by.gl.at.ply.gg:5056'
+[22Aug2025 02:29:39.241] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 5056
+[22Aug2025 02:29:59.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Aug2025 02:29:59.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Aug2025 02:29:59.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Aug2025 02:29:59.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Aug2025 02:30:00.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Aug2025 02:30:01.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Aug2025 02:30:01.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Aug2025 02:30:01.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[22Aug2025 02:30:01.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[22Aug2025 02:30:01.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Aug2025 02:30:01.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Aug2025 02:30:01.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Aug2025 02:30:01.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[22Aug2025 02:30:01.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[22Aug2025 02:30:01.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
