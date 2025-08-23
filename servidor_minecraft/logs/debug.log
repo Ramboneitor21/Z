@@ -10619,3 +10619,105 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [23Aug2025 03:22:35.200] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755919355193
 [23Aug2025 03:22:41.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Aug2025 03:22:41.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 03:23:13.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! -0.7356879571548234,-10.209527697311776,0.0
+[23Aug2025 03:23:32.144] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:23:35.141] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:23:35.694] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:24:27.043] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:24:31.245] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:24:36.048] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:24:53.247] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:25:00.493] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:25:02.745] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:25:03.698] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:25:04.544] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:25:04.597] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:25:05.194] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:25:06.197] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:25:06.646] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:25:06.996] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:25:08.000] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:25:08.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Zombie
+[23Aug2025 03:25:10.223] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:25:10.223] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Aug2025 03:25:10.223] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Aug2025 03:25:10.455] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755919510447
+[23Aug2025 03:25:37.145] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:25:37.944] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:25:38.895] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:25:40.343] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:27:13.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Applied enchantment Mending to C0LIGAMES's item]
+[23Aug2025 03:27:41.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 03:27:41.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 03:29:09.243] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:30:32.347] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:31:03.799] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:31:03.992] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:31:05.144] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:31:05.248] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:31:06.447] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:31:06.692] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:31:07.047] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:31:08.697] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:31:53.298] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:31:59.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was shot by C0LIGAMES
+[23Aug2025 03:32:00.848] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:32:00.849] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Aug2025 03:32:00.849] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[23Aug2025 03:32:01.104] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755919921086
+[23Aug2025 03:32:41.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 03:32:41.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 03:36:16.821] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:36:22.099] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:36:40.595] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:36:47.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7 timed out
+[23Aug2025 03:36:47.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player C0LIGAMES
+[23Aug2025 03:36:47.344] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to C0LIGAMES
+[23Aug2025 03:36:47.344] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with C0LIGAMES
+[23Aug2025 03:36:47.345] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with C0LIGAMES
+[23Aug2025 03:36:47.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[23Aug2025 03:36:47.345] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7 to disconnected: {disabled=false, disconnected=true, uuid=599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7, name=C0LIGAMES, group=40236074-4614-43e1-9e32-858e97e7d93a}
+[23Aug2025 03:36:56.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Timed out
+[23Aug2025 03:36:56.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[23Aug2025 03:36:56.601] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of C0LIGAMES
+[23Aug2025 03:36:56.601] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[23Aug2025 03:36:56.646] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Aug2025 03:37:01.806] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:37:02.393] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:37:02.594] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:37:03.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnMarshelo lost connection: Disconnected
+[23Aug2025 03:37:03.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo left the game
+[23Aug2025 03:37:03.595] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of UnMarshelo
+[23Aug2025 03:37:03.596] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnMarshelo
+[23Aug2025 03:37:03.634] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dc7566d-df20-34d3-a4db-a631d4cd4f38 does not have a secret
+[23Aug2025 03:37:41.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 03:37:41.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 03:38:54.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Aug2025 03:38:54.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Aug2025 03:38:54.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Aug2025 03:38:54.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Aug2025 03:38:55.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Aug2025 03:38:58.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[23Aug2025 03:38:58.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Aug2025 03:38:58.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[23Aug2025 03:38:58.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Aug2025 03:38:58.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 03:38:58.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 03:38:58.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Aug2025 03:38:58.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[23Aug2025 03:38:58.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Aug2025 03:38:58.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[23Aug2025 03:38:58.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Aug2025 03:38:58.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Aug2025 03:38:58.562] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[23Aug2025 03:38:58.562] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[23Aug2025 03:38:58.859] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for grotesque_steve:stomach
+[23Aug2025 03:38:58.859] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for grotesque_steve:stomach
+[23Aug2025 03:38:58.860] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[23Aug2025 03:38:58.860] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[23Aug2025 03:38:58.863] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for lostcities:lostcity
+[23Aug2025 03:38:58.863] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for lostcities:lostcity
+[23Aug2025 03:38:58.865] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[23Aug2025 03:38:58.865] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[23Aug2025 03:38:58.870] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[23Aug2025 03:38:58.879] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

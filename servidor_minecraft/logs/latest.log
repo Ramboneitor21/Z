@@ -1549,3 +1549,36 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [23Aug2025 03:22:33.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo died
 [23Aug2025 03:22:34.967] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [23Aug2025 03:22:34.968] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Aug2025 03:23:13.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! -0.7356879571548234,-10.209527697311776,0.0
+[23Aug2025 03:25:08.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Zombie
+[23Aug2025 03:25:10.223] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Aug2025 03:25:10.223] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Aug2025 03:27:13.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Applied enchantment Mending to C0LIGAMES's item]
+[23Aug2025 03:31:59.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was shot by C0LIGAMES
+[23Aug2025 03:32:00.849] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Aug2025 03:32:00.849] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[23Aug2025 03:36:47.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7 timed out
+[23Aug2025 03:36:47.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player C0LIGAMES
+[23Aug2025 03:36:47.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[23Aug2025 03:36:56.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Timed out
+[23Aug2025 03:36:56.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[23Aug2025 03:36:56.601] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[23Aug2025 03:36:56.646] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Aug2025 03:37:03.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnMarshelo lost connection: Disconnected
+[23Aug2025 03:37:03.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo left the game
+[23Aug2025 03:37:03.596] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnMarshelo
+[23Aug2025 03:38:54.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Aug2025 03:38:54.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Aug2025 03:38:54.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Aug2025 03:38:54.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Aug2025 03:38:55.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Aug2025 03:38:58.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[23Aug2025 03:38:58.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Aug2025 03:38:58.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[23Aug2025 03:38:58.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Aug2025 03:38:58.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Aug2025 03:38:58.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[23Aug2025 03:38:58.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Aug2025 03:38:58.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[23Aug2025 03:38:58.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Aug2025 03:38:58.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

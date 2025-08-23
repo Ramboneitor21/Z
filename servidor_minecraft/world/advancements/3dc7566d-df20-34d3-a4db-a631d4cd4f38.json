@@ -29,6 +29,7 @@
       "minecraft:river": "2025-08-20 00:39:54 +0000",
       "minecraft:dripstone_caves": "2025-08-21 00:47:21 +0000",
       "minecraft:forest": "2025-08-19 23:57:29 +0000",
+      "minecraft:lush_caves": "2025-08-23 03:34:59 +0000",
       "minecraft:jungle": "2025-08-23 03:14:25 +0000",
       "minecraft:savanna": "2025-08-23 02:33:06 +0000",
       "minecraft:plains": "2025-08-20 00:01:58 +0000"
@@ -3864,6 +3865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-23 03:28:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-08-23 03:02:27 +0000"
@@ -3873,6 +3880,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2025-08-23 03:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-08-23 03:26:49 +0000"
     },
     "done": true
   },
@@ -3891,6 +3904,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-08-23 03:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-23 03:28:14 +0000"
     },
     "done": true
   },
@@ -3915,6 +3934,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-08-23 02:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-08-23 03:28:45 +0000"
     },
     "done": true
   },
@@ -3966,6 +3991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-08-23 03:28:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-08-23 02:49:12 +0000"
@@ -3984,9 +4015,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-08-23 03:36:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-08-23 02:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-23 03:36:46 +0000"
     },
     "done": true
   },
