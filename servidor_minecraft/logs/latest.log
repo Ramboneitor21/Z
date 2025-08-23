@@ -1513,3 +1513,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [23Aug2025 02:50:58.967] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [23Aug2025 02:50:59.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> XD
 [23Aug2025 02:51:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[23Aug2025 02:52:27.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[23Aug2025 02:52:59.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[23Aug2025 02:53:19.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[23Aug2025 02:53:36.373] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[23Aug2025 02:53:57.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> hazman
+[23Aug2025 02:54:22.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[23Aug2025 02:57:15.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Applied enchantment Mending to C0LIGAMES's item]
+[23Aug2025 02:57:25.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Applied enchantment Mending to C0LIGAMES's item]
+[23Aug2025 02:57:34.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[23Aug2025 02:58:41.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to UnMarshelo]
+[23Aug2025 02:59:55.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was shot by C0LIGAMES
+[23Aug2025 02:59:56.894] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Aug2025 02:59:56.894] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
