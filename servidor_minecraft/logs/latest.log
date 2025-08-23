@@ -1526,3 +1526,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [23Aug2025 02:59:55.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was shot by C0LIGAMES
 [23Aug2025 02:59:56.894] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [23Aug2025 02:59:56.894] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Aug2025 03:02:46.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has completed the challenge [It Spreads]
+[23Aug2025 03:03:01.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Infected
+[23Aug2025 03:03:02.622] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Aug2025 03:03:02.622] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[23Aug2025 03:07:03.233] [Worker-Main-17/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[23Aug2025 03:07:03.879] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
+[23Aug2025 03:07:45.558] [Worker-Main-50/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_3199
+[23Aug2025 03:07:53.135] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_3199
+[23Aug2025 03:08:02.519] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[23Aug2025 03:10:54.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo lost too much blood.
+[23Aug2025 03:10:55.747] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Aug2025 03:10:55.747] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Aug2025 03:11:08.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported UnMarshelo to -930.480000, 65.000000, -909.970000]
+[23Aug2025 03:11:41.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[23Aug2025 03:11:55.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
