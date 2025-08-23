@@ -29,6 +29,7 @@
       "minecraft:river": "2025-08-21 01:00:53 +0000",
       "minecraft:dripstone_caves": "2025-08-21 01:11:58 +0000",
       "minecraft:forest": "2025-08-19 23:50:37 +0000",
+      "minecraft:savanna": "2025-08-23 02:33:04 +0000",
       "minecraft:plains": "2025-08-19 23:53:28 +0000"
     },
     "done": false
@@ -5166,6 +5167,42 @@
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-08-23 02:18:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-08-23 02:29:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-08-23 02:29:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-08-23 02:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-23 02:29:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-08-23 02:29:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-08-23 02:29:08 +0000"
     },
     "done": true
   },
