@@ -1541,3 +1541,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [23Aug2025 03:11:08.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported UnMarshelo to -930.480000, 65.000000, -909.970000]
 [23Aug2025 03:11:41.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
 [23Aug2025 03:11:55.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[23Aug2025 03:15:20.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> XD
+[23Aug2025 03:15:22.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> ZZZ
+[23Aug2025 03:21:24.296] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Aug2025 03:21:24.296] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[23Aug2025 03:21:24.297] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[23Aug2025 03:22:33.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo died
+[23Aug2025 03:22:34.967] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Aug2025 03:22:34.968] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty

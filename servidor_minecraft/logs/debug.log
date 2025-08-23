@@ -10573,3 +10573,49 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [23Aug2025 03:11:08.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported UnMarshelo to -930.480000, 65.000000, -909.970000]
 [23Aug2025 03:11:41.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
 [23Aug2025 03:11:55.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[23Aug2025 03:12:41.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 03:12:41.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 03:13:29.148] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:14:33.494] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:15:20.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> XD
+[23Aug2025 03:15:22.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> ZZZ
+[23Aug2025 03:15:41.475] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:15:41.476] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:17:41.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 03:17:41.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 03:17:59.293] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:18:02.294] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:18:33.896] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:18:34.755] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:18:36.044] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:18:38.293] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:18:39.043] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:19:14.092] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:19:16.541] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:20:46.347] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:21:24.296] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Aug2025 03:21:24.296] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[23Aug2025 03:21:24.297] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[23Aug2025 03:21:31.395] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:21:31.944] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:22:01.051] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:22:26.194] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:22:26.697] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:22:27.195] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:22:28.194] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:22:28.699] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:22:29.195] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:22:29.698] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:22:30.194] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:22:30.699] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:22:31.195] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:22:31.697] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:22:32.200] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:22:32.696] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:22:33.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo died
+[23Aug2025 03:22:34.967] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 03:22:34.967] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Aug2025 03:22:34.968] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Aug2025 03:22:35.200] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755919355193
+[23Aug2025 03:22:41.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 03:22:41.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
