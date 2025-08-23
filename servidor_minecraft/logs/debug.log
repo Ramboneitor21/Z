@@ -10248,3 +10248,138 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [23Aug2025 02:40:44.466] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [23Aug2025 02:40:44.466] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [23Aug2025 02:40:44.667] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755916844667
+[23Aug2025 02:42:03.856] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:04.361] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:04.861] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:05.357] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:05.860] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:06.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[23Aug2025 02:42:06.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[23Aug2025 02:42:06.058] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of joaocover
+[23Aug2025 02:42:06.058] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[23Aug2025 02:42:06.347] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:06.848] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:07.349] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:07.847] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:08.347] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:08.857] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:09.351] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:09.851] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:10.351] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:10.853] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:11.349] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:11.849] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:12.349] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:12.859] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:13.351] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:13.846] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:14.347] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:14.849] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:15.347] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:15.849] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:16.348] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:16.847] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:17.355] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:17.849] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:21.946] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:22.843] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:41.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 02:42:41.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 02:42:52.743] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:53.943] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:55.343] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:55.943] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:42:59.142] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:43:12.293] [Server thread/INFO] [Scaling Health/]: Blight Runner has died
+[23Aug2025 02:44:28.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[23Aug2025 02:44:49.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[23Aug2025 02:45:05.096] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:45:06.095] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:45:10.446] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:46:09.350] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:46:12.748] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:46:43.095] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:46:43.750] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:46:44.252] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:46:44.753] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:46:45.300] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:46:45.902] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:46:46.448] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:46:47.002] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:46:47.652] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:46:48.153] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:46:48.710] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:46:49.202] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:46:49.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Walker
+[23Aug2025 02:46:50.722] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:46:50.722] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Aug2025 02:46:50.722] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Aug2025 02:46:50.923] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755917210923
+[23Aug2025 02:47:41.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 02:47:41.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 02:49:19.694] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:20.046] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:20.198] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:20.548] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:20.694] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:21.048] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:21.196] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:21.545] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:21.696] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:22.045] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:22.196] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:22.547] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:22.696] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:23.045] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:23.198] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:23.546] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:23.698] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:24.045] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:24.197] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:24.545] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:24.697] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:25.049] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:25.198] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:25.547] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:25.698] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:26.045] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:26.545] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:26.694] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:27.047] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:27.195] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:27.546] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:28.047] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:28.545] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:29.045] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:49:29.545] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:50:21.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Killed C0LIGAMES]
+[23Aug2025 02:50:38.651] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:50:40.095] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:50:40.645] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:50:42.648] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:50:44.095] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:50:44.648] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:50:46.644] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:50:48.096] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:50:48.645] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:50:50.644] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:50:52.644] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:50:54.645] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:50:56.648] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:50:57.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo died from dehydration
+[23Aug2025 02:50:58.247] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:50:58.965] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:50:58.966] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Aug2025 02:50:58.967] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[23Aug2025 02:50:59.197] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755917459191
+[23Aug2025 02:50:59.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> XD
+[23Aug2025 02:51:00.045] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:51:02.244] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:51:04.045] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:51:06.249] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:51:08.047] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:51:10.247] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:51:12.247] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:51:14.244] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:51:16.248] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 02:51:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
