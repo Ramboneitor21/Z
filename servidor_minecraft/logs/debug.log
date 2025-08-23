@@ -8852,3 +8852,25 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [23Aug2025 01:50:33.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
 [23Aug2025 01:50:40.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
 [23Aug2025 01:50:57.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Killed C0LIGAMES]
+[23Aug2025 01:51:04.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES died
+[23Aug2025 01:51:04.365] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for C0LIGAMES with unique ID travelersbackpack.standard_23.08.2025-01.51.04.dat
+[23Aug2025 01:51:05.674] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 01:51:05.674] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Aug2025 01:51:05.675] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Aug2025 01:51:05.901] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755913865847
+[23Aug2025 01:51:09.229] [Server thread/DEBUG] [mixin/]: Mixing tacz.ModernKineticGunScriptAPIMixin from sona.mixins.json into com.tacz.guns.item.ModernKineticGunScriptAPI
+[23Aug2025 01:52:08.050] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by C0LIGAMES
+[23Aug2025 01:52:41.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 01:52:41.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 01:52:42.932] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from sona.mixins.json into net.minecraft.world.CompoundContainer
+[23Aug2025 01:52:44.925] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Aug2025 01:53:58.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[23Aug2025 01:56:25.185] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[23Aug2025 01:56:25.185] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[23Aug2025 01:56:25.186] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[23Aug2025 01:57:41.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 01:57:41.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 01:57:42.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[23Aug2025 01:59:09.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[23Aug2025 01:59:31.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[23Aug2025 02:00:44.317] [Server thread/DEBUG] [mixin/]: Mixing MixinFluidUtil from thirst.mixin.json into net.minecraftforge.fluids.FluidUtil

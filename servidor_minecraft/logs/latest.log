@@ -1300,3 +1300,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [23Aug2025 01:50:33.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
 [23Aug2025 01:50:40.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
 [23Aug2025 01:50:57.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Killed C0LIGAMES]
+[23Aug2025 01:51:04.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES died
+[23Aug2025 01:51:04.365] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for C0LIGAMES with unique ID travelersbackpack.standard_23.08.2025-01.51.04.dat
+[23Aug2025 01:51:05.674] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Aug2025 01:51:05.675] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Aug2025 01:52:08.050] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by C0LIGAMES
+[23Aug2025 01:53:58.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[23Aug2025 01:57:42.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[23Aug2025 01:59:09.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[23Aug2025 01:59:31.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
