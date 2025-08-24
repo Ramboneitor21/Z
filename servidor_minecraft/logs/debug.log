@@ -8929,3 +8929,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [24Aug2025 23:14:06.112] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [24Aug2025 23:14:07.861] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [24Aug2025 23:14:53.570] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[24Aug2025 23:17:19.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 23:17:19.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 23:18:22.712] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 23:18:24.661] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 23:18:50.730] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[24Aug2025 23:19:16.067] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 23:19:18.816] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 23:19:20.066] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 23:19:36.865] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[24Aug2025 23:20:17.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[24Aug2025 23:20:28.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[24Aug2025 23:22:18.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 23:22:19.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 23:23:42.412] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 23:24:28.353] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[24Aug2025 23:25:18.365] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 23:25:24.912] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 23:25:36.734] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[24Aug2025 23:25:48.009] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 23:27:18.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 23:27:18.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 23:27:59.295] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[24Aug2025 23:32:18.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 23:32:19.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
