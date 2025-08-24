@@ -1361,3 +1361,97 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [24Aug2025 23:24:28.353] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
 [24Aug2025 23:25:36.734] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
 [24Aug2025 23:27:59.295] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[24Aug2025 23:39:53.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Gave 128 [Torch] to C0LIGAMES]
+[24Aug2025 23:42:07.722] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6b616521[id=<null>,name=joaocover,properties={},legacy=false] (/127.106.52.82:45389): Took too long to log in
+[24Aug2025 23:42:07.724] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b616521[id=<null>,name=joaocover,properties={},legacy=false] (/127.106.52.82:45389) lost connection: Took too long to log in
+[24Aug2025 23:42:07.767] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Aug2025 23:43:28.283] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[24Aug2025 23:43:49.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnMarshelo[/127.111.154.181:41303] logged in with entity id 12008 at (-751.012441175009, -20.0, -791.0641441613789)
+[24Aug2025 23:43:49.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo joined the game
+[24Aug2025 23:43:49.455] [Server thread/INFO] [Jade/]: Syncing config to UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38)
+[24Aug2025 23:43:54.068] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnMarshelo (18)
+[24Aug2025 23:43:54.069] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnMarshelo
+[24Aug2025 23:44:08.814] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51151851[id=<null>,name=joaocover,properties={},legacy=false] (/127.106.52.82:43893) lost connection: Disconnected
+[24Aug2025 23:44:12.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> olas
+[24Aug2025 23:44:18.698] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[24Aug2025 23:44:19.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[24Aug2025 23:44:19.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38) successfully connected to voice chat
+[24Aug2025 23:44:42.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> holas
+[24Aug2025 23:44:44.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> SHF ESTABA MAS VIVO XD
+[24Aug2025 23:45:23.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> libere casi todo XD
+[24Aug2025 23:45:28.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> WTF
+[24Aug2025 23:45:31.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> me asustaste XD
+[24Aug2025 23:45:43.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> jaja
+[24Aug2025 23:45:46.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> te mato?
+[24Aug2025 23:45:53.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> sip
+[24Aug2025 23:45:53.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> veo todo tu sufrimiento XD
+[24Aug2025 23:46:02.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was shot by C0LIGAMES
+[24Aug2025 23:46:03.614] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Aug2025 23:46:03.614] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[24Aug2025 23:46:10.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> ptm
+[24Aug2025 23:46:12.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> XD
+[24Aug2025 23:46:17.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=103, z=-3}
+[24Aug2025 23:46:18.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported UnMarshelo to -701.430000, -20.000000, -753.280000]
+[24Aug2025 23:46:21.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> no es SHF
+[24Aug2025 23:46:30.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> ahi tepeaba solo cuando estaba apurado
+[24Aug2025 23:46:30.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> shf?
+[24Aug2025 23:46:38.162] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d081d92[id=<null>,name=joaocover,properties={},legacy=false] (/127.106.52.82:37123) lost connection: Timed out
+[24Aug2025 23:46:39.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> SagaHardFio pis XD
+[24Aug2025 23:46:43.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> CRJO
+[24Aug2025 23:46:46.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> NO HABRE ESTA MRD
+[24Aug2025 23:46:55.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> YA LE GASTE LA MITAD DE DURABILIDAD XD
+[24Aug2025 23:47:08.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> XD
+[24Aug2025 23:47:12.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> esa no era XD
+[24Aug2025 23:47:15.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> era la 2d
+[24Aug2025 23:47:25.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> 2d?
+[24Aug2025 23:47:33.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> si esta pis
+[24Aug2025 23:47:37.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> weno
+[24Aug2025 23:47:38.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> la que esta con textura de mc
+[24Aug2025 23:47:44.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> esa es 3d XD
+[24Aug2025 23:47:49.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> NO HABRE ESTA MRD XD
+[24Aug2025 23:47:59.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> jaja
+[24Aug2025 23:48:05.513] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@649efec[id=<null>,name=joaocover,properties={},legacy=false] (/127.106.52.82:43643): Took too long to log in
+[24Aug2025 23:48:05.513] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@649efec[id=<null>,name=joaocover,properties={},legacy=false] (/127.106.52.82:43643) lost connection: Took too long to log in
+[24Aug2025 23:48:05.564] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Aug2025 23:48:09.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> XD
+[24Aug2025 23:48:14.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> mira la mrd que me dio
+[24Aug2025 23:48:25.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> XD
+[24Aug2025 23:48:33.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> tremenda kgada
+[24Aug2025 23:48:38.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> weno, maso
+[24Aug2025 23:49:06.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> CRJO
+[24Aug2025 23:49:08.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> FALLE XD
+[24Aug2025 23:49:13.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> yo más
+[24Aug2025 23:49:30.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> si ya me la se
+[24Aug2025 23:49:33.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was shot by C0LIGAMES
+[24Aug2025 23:49:34.844] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Aug2025 23:49:34.845] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[24Aug2025 23:49:53.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> XD
+[24Aug2025 23:49:55.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> es mas grande que la ultima vez no?
+[24Aug2025 23:50:00.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> alparecer
+[24Aug2025 23:51:09.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> XD
+[24Aug2025 23:51:15.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> hazte una palanca
+[24Aug2025 23:51:17.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> es facil
+[24Aug2025 23:51:39.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> o no
+[24Aug2025 23:51:44.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> tengo zombification XD
+[24Aug2025 23:52:30.716] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@538fd2e2[id=<null>,name=joaocover,properties={},legacy=false] (/127.106.52.82:48409) lost connection: Disconnected
+[24Aug2025 23:52:53.327] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[24Aug2025 23:53:07.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> encontre la manera de desbuguear lo de daño XD
+[24Aug2025 23:53:12.615] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@331a25c5[id=<null>,name=joaocover,properties={},legacy=false] (/127.106.52.82:57075): Took too long to log in
+[24Aug2025 23:53:12.616] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@331a25c5[id=<null>,name=joaocover,properties={},legacy=false] (/127.106.52.82:57075) lost connection: Took too long to log in
+[24Aug2025 23:53:12.666] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Aug2025 23:53:17.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> cm?
+[24Aug2025 23:53:29.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> con un corazo XD
+[24Aug2025 23:53:33.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> esto
+[24Aug2025 23:53:37.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> serio?
+[24Aug2025 23:53:39.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> si
+[24Aug2025 23:53:47.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> wow
+[24Aug2025 23:54:53.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> puedes voice chat?
+[24Aug2025 23:55:14.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> creo q kge
+[24Aug2025 23:55:19.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> x?
+[24Aug2025 23:55:32.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> no se que pasara si zombification llega a 0
+[24Aug2025 23:55:35.311] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9bc332d[id=<null>,name=joaocover,properties={},legacy=false] (/127.106.52.82:42367) lost connection: Disconnected
+[24Aug2025 23:55:43.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> pos te mueres no?
+[24Aug2025 23:56:08.816] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7fd41caf[id=<null>,name=joaocover,properties={},legacy=false] (/127.106.52.82:43365) lost connection: Disconnected
+[24Aug2025 23:56:13.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> MARSHELITO PARKOUR
+[24Aug2025 23:56:17.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> PARKOUR PARKOUR
+[24Aug2025 23:56:18.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> XD
