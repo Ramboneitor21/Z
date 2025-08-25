@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mangrove_swamp": "2025-08-25 01:04:00 +0000",
       "minecraft:sparse_jungle": "2025-08-20 00:26:23 +0000",
       "minecraft:river": "2025-08-20 00:39:54 +0000",
       "minecraft:dripstone_caves": "2025-08-21 00:47:21 +0000",
@@ -807,7 +808,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-08-20 00:10:28 +0000",
-      "bread": "2025-08-21 00:56:03 +0000"
+      "bread": "2025-08-21 00:56:03 +0000",
+      "golden_apple": "2025-08-25 00:59:39 +0000"
     },
     "done": false
   },
@@ -4033,12 +4035,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/creeper": {
-    "criteria": {
-      "has_gunpowder": "2025-08-25 00:01:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-08-24 23:50:21 +0000"
@@ -4048,24 +4044,6 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-08-24 23:50:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-08-25 00:01:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-08-25 00:10:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/wax_off": {
-    "criteria": {
-      "wax_off": "2025-08-25 00:00:16 +0000"
     },
     "done": true
   },
@@ -4081,9 +4059,39 @@
     },
     "done": true
   },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-08-25 00:00:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-08-25 00:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-25 00:01:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-08-25 00:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-08-25 00:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-08-25 01:06:01 +0000"
     },
     "done": true
   },
