@@ -1344,3 +1344,46 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [25Aug2025 00:42:54.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
 [25Aug2025 00:42:56.107] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [25Aug2025 00:42:56.107] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Aug2025 00:43:35.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Runner
+[25Aug2025 00:43:36.391] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Aug2025 00:43:36.392] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Aug2025 00:46:57.933] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1fe8e016[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:55631) lost connection: Disconnected
+[25Aug2025 00:47:49.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: PTMA OE QUE RABIA LA MESA DE DESCRAFTEO
+[25Aug2025 00:47:59.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> SI
+[25Aug2025 00:48:02.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: NO ME DEJA DE SALIR ERROR
+[25Aug2025 00:48:08.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> X2
+[25Aug2025 00:48:15.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> PERO NO T TAN MAL
+[25Aug2025 00:48:21.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: COMO LO ARREGLASTE
+[25Aug2025 00:48:22.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> sirve de algo
+[25Aug2025 00:48:30.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> NO EN MUNDO SOLO
+[25Aug2025 00:49:11.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> te unes?
+[25Aug2025 00:49:17.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: tmr todavia son 218 mb a cargar de mobs si me voy a unir
+[25Aug2025 00:49:37.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> GOD
+[25Aug2025 00:50:33.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: OTRA VEZ EL MISMO PUTO ERROR WE
+[25Aug2025 00:50:44.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnMarshelo[/127.111.154.181:35457] logged in with entity id 5338 at (-787.3000000119209, -5.0, -773.2328039733468)
+[25Aug2025 00:50:44.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo joined the game
+[25Aug2025 00:50:44.304] [Server thread/INFO] [Jade/]: Syncing config to UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38)
+[25Aug2025 00:50:46.928] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnMarshelo (18)
+[25Aug2025 00:50:46.929] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnMarshelo
+[25Aug2025 00:50:46.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> en mundo solo funciona maso
+[25Aug2025 00:50:46.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2676ms or 53 ticks behind
+[25Aug2025 00:50:49.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> mashelo
+[25Aug2025 00:50:54.907] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[25Aug2025 00:50:56.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[25Aug2025 00:50:56.069] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38) successfully connected to voice chat
+[25Aug2025 00:51:09.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> ya hay primer piso
+[25Aug2025 00:51:21.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Walker
+[25Aug2025 00:51:22.696] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Aug2025 00:51:22.696] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Aug2025 00:51:34.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: men como solucionas esa mrd del error de la mesa de incrafteo?
+[25Aug2025 00:51:34.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> holas
+[25Aug2025 00:51:39.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> holas
+[25Aug2025 00:51:47.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> q hace jojajo
+[25Aug2025 00:51:54.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> tiene un complemento lagisimo
+[25Aug2025 00:52:04.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> d q oq
+[25Aug2025 00:52:05.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> BASE LA MIA
+[25Aug2025 00:52:16.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> mia la base?
+[25Aug2025 00:52:28.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> algo asi
+[25Aug2025 00:52:48.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> pueo ver?
+[25Aug2025 00:52:58.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joaocover> ESTOY AHORITA EN LA BASE B
+[25Aug2025 00:53:20.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <UnMarshelo> como dije te woa a ver
