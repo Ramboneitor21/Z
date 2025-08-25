@@ -1522,3 +1522,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [25Aug2025 01:22:21.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
 [25Aug2025 01:22:55.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
 [25Aug2025 01:23:25.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[25Aug2025 01:24:51.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[25Aug2025 01:25:01.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[25Aug2025 01:25:15.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2892ms or 57 ticks behind
+[25Aug2025 01:25:16.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo has made the advancement [We Need to Go Deeper]
+[25Aug2025 01:25:54.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo died
+[25Aug2025 01:25:56.206] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Aug2025 01:25:56.206] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25Aug2025 01:26:49.953] [Server thread/INFO] [Scaling Health/]: Blight Devestated was killed by C0LIGAMES
+[25Aug2025 01:26:55.971] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[25Aug2025 01:27:33.751] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:27:40.707] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:28:15.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Runner
+[25Aug2025 01:28:17.929] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Aug2025 01:28:17.929] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Aug2025 01:28:19.741] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:28:19.960] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:28:20.139] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:28:41.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to UnMarshelo]
+[25Aug2025 01:29:52.931] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 69 ms
+[25Aug2025 01:30:06.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <C0LIGAMES> -720 x -304
+[25Aug2025 01:32:35.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported UnMarshelo to -157.280000, 44.000000, -199.400000]
+[25Aug2025 01:33:35.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported UnMarshelo to -233.950000, 43.000000, -199.380000]
+[25Aug2025 01:34:02.186] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
