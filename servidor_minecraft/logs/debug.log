@@ -11673,3 +11673,287 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [25Aug2025 01:34:04.176] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [25Aug2025 01:34:06.177] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [25Aug2025 01:34:08.175] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:34:41.534] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:35:05.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 01:35:05.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 01:36:59.376] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:36:59.874] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:37:00.374] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:37:00.876] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:37:01.374] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:37:23.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-403, y=36, z=-227} BlockPos{x=-403, y=38, z=-226}
+[25Aug2025 01:37:23.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-403, y=36, z=-227} BlockPos{x=-403, y=38, z=-226}
+[25Aug2025 01:37:23.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-403, y=36, z=-227} BlockPos{x=-403, y=38, z=-226}
+[25Aug2025 01:37:23.731] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-403, y=36, z=-227} BlockPos{x=-403, y=38, z=-226}
+[25Aug2025 01:37:23.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-403, y=36, z=-227} BlockPos{x=-403, y=38, z=-226}
+[25Aug2025 01:38:11.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-478, y=40, z=-238} BlockPos{x=-479, y=40, z=-238}
+[25Aug2025 01:38:11.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-478, y=40, z=-238} BlockPos{x=-478, y=39, z=-238}
+[25Aug2025 01:39:17.385] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:39:24.465] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:40:05.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 01:40:05.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 01:40:26.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported UnMarshelo to -556.440000, 40.000000, -251.340000]
+[25Aug2025 01:40:32.951] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:40:53.678] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:41:52.601] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:42:16.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo has made the advancement [A Terrible Fortress]
+[25Aug2025 01:42:18.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [A Terrible Fortress]
+[25Aug2025 01:42:58.427] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:44:23.980] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:44:35.375] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:44:35.375] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:44:56.578] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:00.486] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:00.486] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:00.487] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:00.487] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:00.487] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:00.487] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:00.487] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:00.488] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:00.488] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:00.488] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:00.488] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:00.489] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:05.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 01:45:05.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 01:45:18.278] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:22.625] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:23.274] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:24.282] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:25.278] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:26.278] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:28.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Into Fire]
+[25Aug2025 01:45:43.445] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:43.580] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:46.727] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:47.617] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:51.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo has made the advancement [Into Fire]
+[25Aug2025 01:46:19.328] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:46:19.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo has made the advancement [Not Today, Thank You]
+[25Aug2025 01:46:19.925] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:46:24.838] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:46:25.132] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:46:26.130] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:46:27.130] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:46:35.529] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:46:50.379] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:09.334] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:14.027] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:22.224] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:23.379] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:38.335] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:39.477] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:48.329] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:49.334] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:50.333] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:51.336] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:52.327] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:03.680] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:04.417] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:05.930] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:07.925] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:08.577] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:09.580] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:10.579] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:13.178] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:14.178] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:20.176] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:21.178] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:22.174] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:23.182] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:35.035] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:36.034] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:37.040] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:38.044] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:39.030] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:43.875] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:51.329] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:51.774] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:52.331] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:52.774] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:53.328] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:54.332] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:55.329] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:56.328] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:57.330] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:58.924] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:59.527] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:00.533] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:01.528] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:02.529] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:03.531] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:09.839] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756086549826
+[25Aug2025 01:49:43.141] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:45.828] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:48.079] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:48.229] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:55.630] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:50:05.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 01:50:05.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 01:50:13.530] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:50:14.525] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:50:18.530] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:50:43.878] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:51:21.630] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:51:22.631] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:51:23.639] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:51:23.933] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:51:24.936] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:51:25.930] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:51:26.928] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:51:27.928] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:28.874] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:29.824] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:30.825] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:30.825] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:34.523] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:36.125] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:37.123] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:38.127] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:39.126] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:39.473] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:40.123] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:41.625] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:43.772] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:44.326] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:45.327] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:46.326] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:47.327] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:48.272] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:52:49.472] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:53:00.545] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:53:01.573] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:53:02.525] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:53:03.524] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:53:04.530] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:53:09.574] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:53:10.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:53:10.961] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:53:11.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:53:12.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:53:13.722] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:53:21.027] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:53:21.534] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:53:22.026] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:53:22.526] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:53:32.440] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:53:47.821] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:53:50.021] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:54:05.313] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:54:05.627] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:54:06.125] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:54:06.625] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:54:33.830] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:55:05.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 01:55:05.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 01:55:56.023] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:55:56.773] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:55:57.774] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:55:58.773] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:55:59.672] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:02.022] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:03.124] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:04.624] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:05.975] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:07.225] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:09.327] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:09.524] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:09.672] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:09.973] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:09.975] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:11.405] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:56:11.616] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:56:11.723] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:11.810] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:56:13.073] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:16.674] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:16.974] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:17.075] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:17.673] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:21.222] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:21.373] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:22.525] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:23.523] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:24.422] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:27.955] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:28.980] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:29.981] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:30.985] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:31.982] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:32.979] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:33.980] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:34.983] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:38.925] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:40.926] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:42.925] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:56:44.928] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:58:05.698] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:58:13.413] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[25Aug2025 01:58:14.029] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[25Aug2025 01:58:14.607] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[25Aug2025 01:58:14.978] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[25Aug2025 01:58:15.326] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[25Aug2025 01:58:15.614] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[25Aug2025 01:58:15.911] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[25Aug2025 02:00:02.325] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 02:00:03.677] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 02:00:05.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 02:00:05.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 02:00:08.176] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 02:00:09.479] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 02:00:11.380] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 02:00:11.929] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 02:00:18.011] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756087218004
+[25Aug2025 02:00:18.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo has made the advancement [The survivor]
+[25Aug2025 02:00:18.196] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 02:00:18.253] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756087218247
+[25Aug2025 02:00:19.091] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 02:00:19.340] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 02:00:20.201] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 02:00:20.536] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 02:00:20.886] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 02:00:21.080] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 02:00:21.873] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 02:00:23.173] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 02:00:23.473] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 02:00:25.324] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 02:00:32.297] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 02:00:37.781] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[25Aug2025 02:01:29.078] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[25Aug2025 02:01:29.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[25Aug2025 02:01:29.079] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of C0LIGAMES
+[25Aug2025 02:01:29.079] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[25Aug2025 02:01:30.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnMarshelo lost connection: Disconnected
+[25Aug2025 02:01:30.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo left the game
+[25Aug2025 02:01:30.378] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of UnMarshelo
+[25Aug2025 02:01:30.380] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnMarshelo
+[25Aug2025 02:01:35.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Aug2025 02:01:35.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Aug2025 02:01:35.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Aug2025 02:01:35.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Aug2025 02:01:35.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Aug2025 02:01:36.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[25Aug2025 02:01:36.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Aug2025 02:01:36.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[25Aug2025 02:01:36.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Aug2025 02:01:36.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 02:01:36.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 02:01:36.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Aug2025 02:01:36.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[25Aug2025 02:01:36.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Aug2025 02:01:36.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[25Aug2025 02:01:36.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Aug2025 02:01:36.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Aug2025 02:01:36.856] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[25Aug2025 02:01:36.856] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[25Aug2025 02:01:37.120] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for grotesque_steve:stomach
+[25Aug2025 02:01:37.120] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for grotesque_steve:stomach
+[25Aug2025 02:01:37.121] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[25Aug2025 02:01:37.121] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[25Aug2025 02:01:37.121] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for lostcities:lostcity
+[25Aug2025 02:01:37.121] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for lostcities:lostcity
+[25Aug2025 02:01:37.122] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[25Aug2025 02:01:37.122] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[25Aug2025 02:01:37.147] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[25Aug2025 02:01:37.151] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

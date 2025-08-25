@@ -1545,3 +1545,56 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [25Aug2025 01:32:35.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported UnMarshelo to -157.280000, 44.000000, -199.400000]
 [25Aug2025 01:33:35.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported UnMarshelo to -233.950000, 43.000000, -199.380000]
 [25Aug2025 01:34:02.186] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:37:23.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-403, y=36, z=-227} BlockPos{x=-403, y=38, z=-226}
+[25Aug2025 01:37:23.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-403, y=36, z=-227} BlockPos{x=-403, y=38, z=-226}
+[25Aug2025 01:37:23.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-403, y=36, z=-227} BlockPos{x=-403, y=38, z=-226}
+[25Aug2025 01:37:23.731] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-403, y=36, z=-227} BlockPos{x=-403, y=38, z=-226}
+[25Aug2025 01:37:23.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-403, y=36, z=-227} BlockPos{x=-403, y=38, z=-226}
+[25Aug2025 01:38:11.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-478, y=40, z=-238} BlockPos{x=-479, y=40, z=-238}
+[25Aug2025 01:38:11.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-478, y=40, z=-238} BlockPos{x=-478, y=39, z=-238}
+[25Aug2025 01:40:26.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported UnMarshelo to -556.440000, 40.000000, -251.340000]
+[25Aug2025 01:40:32.951] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:42:16.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo has made the advancement [A Terrible Fortress]
+[25Aug2025 01:42:18.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [A Terrible Fortress]
+[25Aug2025 01:42:58.427] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:45:28.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Into Fire]
+[25Aug2025 01:45:51.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo has made the advancement [Into Fire]
+[25Aug2025 01:46:19.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo has made the advancement [Not Today, Thank You]
+[25Aug2025 01:49:55.630] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:53:32.440] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:54:33.830] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:56:11.405] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:56:11.616] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:56:11.810] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:58:05.698] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 01:58:13.413] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[25Aug2025 01:58:14.029] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[25Aug2025 01:58:14.607] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[25Aug2025 01:58:14.978] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[25Aug2025 01:58:15.326] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[25Aug2025 01:58:15.614] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[25Aug2025 01:58:15.911] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[25Aug2025 02:00:18.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo has made the advancement [The survivor]
+[25Aug2025 02:00:32.297] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Aug2025 02:00:37.781] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[25Aug2025 02:01:29.078] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[25Aug2025 02:01:29.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[25Aug2025 02:01:29.079] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[25Aug2025 02:01:30.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnMarshelo lost connection: Disconnected
+[25Aug2025 02:01:30.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo left the game
+[25Aug2025 02:01:30.380] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnMarshelo
+[25Aug2025 02:01:35.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Aug2025 02:01:35.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Aug2025 02:01:35.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Aug2025 02:01:35.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Aug2025 02:01:35.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Aug2025 02:01:36.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[25Aug2025 02:01:36.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Aug2025 02:01:36.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[25Aug2025 02:01:36.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Aug2025 02:01:36.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Aug2025 02:01:36.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[25Aug2025 02:01:36.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Aug2025 02:01:36.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[25Aug2025 02:01:36.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Aug2025 02:01:36.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

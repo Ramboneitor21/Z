@@ -993,10 +993,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-21 23:58:10 +0000",
+      "minecraft:blaze": "2025-08-25 01:45:00 +0000",
       "minecraft:skeleton": "2025-08-20 00:43:31 +0000",
       "minecraft:spider": "2025-08-23 03:23:35 +0000",
       "minecraft:creeper": "2025-08-20 23:39:53 +0000",
       "minecraft:zombified_piglin": "2025-08-23 02:46:17 +0000",
+      "minecraft:wither_skeleton": "2025-08-25 01:52:28 +0000",
       "minecraft:husk": "2025-08-20 00:05:55 +0000",
       "minecraft:zombie": "2025-08-20 23:35:58 +0000",
       "minecraft:drowned": "2025-08-25 00:12:48 +0000"
@@ -1039,7 +1041,8 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
-      "dirt": "2025-08-20 00:20:48 +0000"
+      "dirt": "2025-08-20 00:20:48 +0000",
+      "soul_soil": "2025-08-25 01:43:47 +0000"
     },
     "done": false
   },
@@ -4411,7 +4414,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-08-22 02:05:50 +0000"
+      "minecraft:crimson_forest": "2025-08-25 01:39:13 +0000",
+      "minecraft:soul_sand_valley": "2025-08-22 02:05:50 +0000",
+      "minecraft:nether_wastes": "2025-08-25 01:52:22 +0000"
     },
     "done": false
   },
@@ -5483,9 +5488,99 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-25 01:45:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-08-25 01:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-08-25 01:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-08-25 01:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-08-25 01:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-08-25 01:32:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-08-25 01:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-08-25 01:42:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-08-25 01:29:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-08-25 01:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-08-25 01:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-08-25 01:32:29 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/soot": {
+    "criteria": {
+      "has_copper_block": "2025-08-25 01:45:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-25 01:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-25 01:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-25 01:45:28 +0000"
     },
     "done": true
   },
